@@ -1,0 +1,38 @@
+---
+translationKey: kawalekswiata
+date: 2024-05-15
+featured: false
+title: Kawałek świata
+slug: kawalekswiata
+cover: /images/kawalekswiata/kawalekswiata_02.webp
+description: Projekt graficzny książki Błażeja Brzostka
+fulltitle: Kawałek świata. Historia Warszawy od początku
+year: 2024
+elements: projekt książki
+for: Muzeum Warszawy
+---
+
+Książkę napisał historyk Błażej Brzostek, a wydało ją Muzeum Warszawy. Publkacja ma ona formę przewodnika, w którym historia Warszawy została przedstawiona w skrótowy sposób poprzez wybrane obiekty z muzealnej kolekcji.
+
+#### Projekt graficzny książki został wyróżniony znakiem jakości Must Have podczas Łódź Design Festival.
+
+![Dwie książki „Kawałek świata” leżące jedna na drugiej. Na górze żółta polska wersja, na dole szara wersja angielska.](/images/kawalekswiata/kawalekswiata_01.webp)
+![Dwie wersje okładki książki „Kawałek świata” – żółta polska i szara angielska.](/images/kawalekswiata/kawalekswiata_03.webp)
+
+Każdy rozdział książki zawiera krótki tekst i ilustrację bazującą na wybranym obiekcie z kolekcji Muzeum. W artefaktach szukałem ich charakterystycznych cech, za pomocą których starałem się je następnie ożywić. Istotną rolę w projekcie odgrywa również narracja wizualna pomiędzy kolejnymi stronami.
+
+{{< gallery >}}
+![Zbiżenie na narożnik książki.](/images/kawalekswiata/kawalekswiata_07.webp)
+![Rozkładówka książki z kolumną tekstu i ilustracją przedstawiającą rozsypane monety.](/images/kawalekswiata/kawalekswiata_10.webp)
+{{< /gallery >}}
+{{< gallery >}}
+![Animacja rozkładówek książki.](/images/kawalekswiata/kawalekswiata_11.webp)
+![Rozkładówka książki z kolumną tekstu i ilustracją przedstawiającą kamienne rzeźbione maski.](/images/kawalekswiata/kawalekswiata_09.webp)
+{{< /gallery >}}
+
+Wydane zostały dwie wersje językowe – polska z żółtym tłem i szarą typografią na okładce i angielska z odwróconymi kolorami.
+
+{{< gallery >}}
+![Zbliżenie na grzbiet książki.](/images/kawalekswiata/kawalekswiata_05.webp)
+![Zbliżenie na wewnętrzną okładkę książki. Widoczne jest tłoczenie tytułu.](/images/kawalekswiata/kawalekswiata_06.webp)
+{{< /gallery >}}

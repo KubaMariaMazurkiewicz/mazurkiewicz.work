@@ -1,0 +1,11 @@
+{{- $lines := split .Inner "\n" -}}
+
+<div class="{{ .Get "class" | default "flex space-x-4 flex-col md:flex-row" }}">
+  {{- range $line := $lines }}
+    {{- if $line }}
+    <div class="one-image">
+      {{ $line | markdownify }}
+    </div>
+    {{- end }}
+  {{- end }}
+</div>
