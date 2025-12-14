@@ -125,11 +125,14 @@ p:empty {
 
 /* sm */
 @media (max-width: 640px) {
-  h1 {
-      font-size: var(--text-5xl);
+  p  {
+    line-height: 1.1;
+  }
+    h1 {
+      font-size: var(--text-4xl);
   }
   h2 {
-    font-size: var(--text-4xl);
+    font-size: var(--text-3xl);
   }
   div#column p, div#column h4 {
     margin-left: 0;
