@@ -1,6 +1,6 @@
 {{- $lines := split .Inner "\n" -}}
 
-<div class="{{ .Get "class" | default "flex space-x-4 flex-col md:flex-row" }}">
+<div class="{{ .Get "class" | default "flex flex-col md:flex-row md:space-x-4" }}">
   {{- range $line := $lines }}
     {{- if $line }}
     <div class="one-image">

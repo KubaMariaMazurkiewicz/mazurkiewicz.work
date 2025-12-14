@@ -1,4 +1,4 @@
-<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex items-center justify-between">
+<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex flex-col sm:flex-row items-center justify-between">
   <!-- Left: Logo -->
   <div class="group z-80">
     {{ $home := site.GetPage "home" }}
@@ -8,12 +8,11 @@
         <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
         <div class="-rotate-2 group-hover:rotate-0 transition-transform duration-200">Mazurkiewicz</div>
       </div>
-      <span class="absolute left-0 bottom-[3px] w-full h-[2px] xl:h-[3px] bg-stone-900 dark:bg-gray-300 opacity-0
-                   transition-opacity delay-200 group-hover:opacity-100"></span>
+      <span class="absolute left-0 bottom-[3px] w-full h-[2px] xl:h-[3px] bg-stone-900 dark:bg-gray-300 opacity-0 transition-opacity delay-200 group-hover:opacity-100"></span>
     </a>
   </div>
 
-  <div class="group z-99999">
+  <div class="group z-99999 mt-3 sm:mt-0">
   <!-- Right: MENU togge -->
   <button id="menu-toggle"
           class="lg:hidden uppercase tracking-tighter font-medium focus:outline-none relative

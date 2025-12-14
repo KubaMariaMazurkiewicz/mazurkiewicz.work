@@ -138,6 +138,9 @@ p:empty {
   h6 {
     font-size: var(--text-sm);
   }
+  blockquote p {
+    padding-left: 1rem;
+  }
 }
 
 /* md */
