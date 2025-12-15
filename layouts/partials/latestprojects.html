@@ -33,16 +33,16 @@
 {{ end }}
 </div>
 
-  <div class="mb-30">
+  <div class="mb-20 lg:mb-30">
     
     <h2 class="m-auto text-center leading-10 lg:w-1/2 lg:leading-14">
       {{ $info.more1 }}
       {{ $section := cond (eq .Site.Language.Lang "pl") "projektowanie" "design" }}
       {{ with site.GetPage "section" $section }}
-      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-4 pr-4 pt-2 pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>{{ end }}{{ $info.more3 }}
+      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-3 pr-3 pt-1 pb-1 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>{{ end }}{{ $info.more3 }}
       {{ $section := cond (eq .Site.Language.Lang "pl") "sztuka" "art" }}
       {{ with site.GetPage "section" $section }}
-      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-4 pr-4 pt-2 pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-3 pr-3 pt-1 pb-1 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>
       {{ end }}
     </h2>
 
