@@ -21,11 +21,10 @@
     data-img="{{ $coverWebp1x }}"
     data-img2x="{{ $coverWebp2x }}"
     class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
-            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr]
-            gap-1 sm:gap-2 items-start">
-    <span class="text-left pr-5">{{ .Title }}</span>
-    <span class="text-left text-lg sm:text-2xl">{{ .Params.elements }}</span>
-    <span class="text-left text-lg sm:text-2xl lg:text-right">{{ .Params.year }}</span>
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">{{ .Title }}</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">{{ .Params.elements }}</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">{{ .Params.year }}</span>
   </a>
 </li>
   {{ end }}
