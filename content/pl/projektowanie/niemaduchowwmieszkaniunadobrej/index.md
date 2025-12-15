@@ -11,7 +11,7 @@ elements: identyfikacja wizualna
 institution: Studio Munka
 ---
 
-Bazując na modelu 3D wykonananym przez studio postprodukcyjne Fireplace, zaprojektowałem plakat do nagradzanego debiutu pełnometrażowego Emi Buchwald. Opracowałem również warstwę typograficzną filmu.
+Bazując na modelu 3D wykonanym przez studio postprodukcyjne Fireplace, zaprojektowałem plakat do nagradzanego debiutu pełnometrażowego Emi Buchwald. Opracowałem również warstwę typograficzną filmu.
 
 {{< gallery >}}
 ![Plakat do filmu Emi Buchwald „Nie ma duchów w mieszkaniu na dobrej”. Na niebieskim tle widać od tyłu szarawą, włochatą sylwetkę. W kadrze znajdują się plecy i głowa stwora. Powyżej białe litery z informacjami o filmie: tytuł, autorzy.](/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_01.webp)
