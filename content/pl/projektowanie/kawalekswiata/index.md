@@ -14,7 +14,7 @@ for: Muzeum Warszawy
 
 Książkę napisał historyk Błażej Brzostek, a wydana została przez Muzeum Warszawy. Publikacja ma formę przewodnika, w którym historia Warszawy przedstawiona jest poprzez wybrane obiekty z muzealnej kolekcji.
 
-#### Projekt graficzny książki został wyróżniony znakiem jakości Must Have podczas Łódź Design Festival.
+#### Projekt graficzny został wyróżniony znakiem jakości Must Have podczas Łódź Design Festival.
 
 ![Dwie książki „Kawałek świata” leżące jedna na drugiej. Na górze żółta polska wersja, na dole szara wersja angielska.](/images/kawalekswiata/kawalekswiata_01.webp)
 ![Dwie wersje okładki książki „Kawałek świata” – żółta polska i szara angielska.](/images/kawalekswiata/kawalekswiata_03.webp)
