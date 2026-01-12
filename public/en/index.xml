@@ -6,8 +6,15 @@
     <description>Recent content on Kuba Maria Mazurkiewicz</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Remains</title>
+      <link>http://localhost:1313/en/design/hiddenremains/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/design/hiddenremains/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Hidden Remains. Centrally Planned Housing of the Polish Countryside&lt;/em&gt; was an exhibition held at the Museum of Architecture in Wrocław from 4 December 2025 to 5 April 2026. Curated by the PROLOG studio in collaboration with the museum team, the exhibition explored the architecture of centrally planned farms in the Polish People’s Republic.&lt;/p&gt;&#xA;&lt;div class=&#34;flex flex-col md:flex-row md:space-x-4&#34;&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_03.webp&#34;&#xA;  alt=&#34;Exhibition title and curatorial text.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_04.webp&#34;&#xA;  alt=&#34;Layout of the introductory text.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_05.webp&#34;&#xA;  alt=&#34;One of the boards with a map of Poland, on which several experimental villages are marked.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;photos-by-jerzy-wypych&#34;&gt;Photos by Jerzy Wypych&lt;/h6&gt;&#xA;&lt;p&gt;I was responsible for the exhibition’s visual identity, including posters, typographic elements, and infographics. The poster design featured photographs by Jędrzej Sokołowski and used the RL Limo headline typeface by Radek Łukasiewicz.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bio</title>
       <link>http://localhost:1313/en/bio/</link>

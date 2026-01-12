@@ -692,6 +692,11 @@
       margin-right: calc(var(--spacing) * 40);
     }
   }
+  .md\:mb-0 {
+    @media (width >= 48rem) {
+      margin-bottom: calc(var(--spacing) * 0);
+    }
+  }
   .md\:basis-1\/2 {
     @media (width >= 48rem) {
       flex-basis: calc(1/2 * 100%);
@@ -739,11 +744,6 @@
   .lg\:mr-20 {
     @media (width >= 64rem) {
       margin-right: calc(var(--spacing) * 20);
-    }
-  }
-  .lg\:mb-0 {
-    @media (width >= 64rem) {
-      margin-bottom: calc(var(--spacing) * 0);
     }
   }
   .lg\:mb-30 {

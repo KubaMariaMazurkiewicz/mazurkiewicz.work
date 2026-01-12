@@ -1,7 +1,7 @@
 ---
 translationKey: wybielanie
 date: 2025-04-29
-featured: true
+featured: false
 title: Bleaching
 slug: bleaching
 cover: /images/wybielanie/wybielanie_01.webp

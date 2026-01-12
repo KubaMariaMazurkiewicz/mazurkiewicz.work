@@ -6,8 +6,15 @@
     <description>Recent content on Kuba Maria Mazurkiewicz</description>
     <generator>Hugo</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ukryte szczątki</title>
+      <link>http://localhost:1313/pl/projektowanie/ukryteszczatki/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pl/projektowanie/ukryteszczatki/</guid>
+      <description>&lt;p&gt;Wystawa &lt;em&gt;Ukryte szczątki. Centralnie planowana architektura mieszkaniowa na wsi&lt;/em&gt; miała miejsce w Muzeum Architektury we Wrocławiu od 4 grudnia 2025 do 5 kwietnia 2026. Pokaz, kuratorowany przez studio PROLOG we współpracy z zespołem Muzeum, dotyczył budownictwa w PGR-ach.&lt;/p&gt;&#xA;&lt;div class=&#34;flex flex-col md:flex-row md:space-x-4&#34;&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_03.webp&#34;&#xA;  alt=&#34;Tytuł wystawy i tekst kuratorski.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_04.webp&#34;&#xA;  alt=&#34;Projekt typograficzny wstępu do wystawy.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/ukryteszczatki/ukryteszczatki_05.webp&#34;&#xA;  alt=&#34;Plansza z mapą Polski, na której oznaczono kilka wsi eksperymentalnych.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;zdjęcia-jerzego-wypycha&#34;&gt;Zdjęcia Jerzego Wypycha&lt;/h6&gt;&#xA;&lt;p&gt;Opracowałem identyfikację wizualną wystawy, obejmującą plakaty, elementy typograficzne i infografiki. W projekcie plakatu użyłem zdjęć Jędrzeja Sokołowskiego i nagłówkowego fontu RL Limo Radka Łukasiewicza.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Biogram</title>
       <link>http://localhost:1313/pl/biogram/</link>

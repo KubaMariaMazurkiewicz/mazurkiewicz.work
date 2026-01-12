@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/bio/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/design/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/biogram/"
+                href="http://localhost:1313/pl/projektowanie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/bio/"
+                href="http://localhost:1313/en/design/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/design/hiddenremains/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -28,17 +31,17 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/design/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/bio/</loc>
+    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/projektowanie/"
+                href="http://localhost:1313/pl/biogram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/design/"
+                href="http://localhost:1313/en/bio/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/design/noghostsongoodstreet/</loc>
