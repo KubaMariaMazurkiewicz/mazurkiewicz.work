@@ -17,6 +17,16 @@
   </url><url>
     <loc>http://localhost:1313/en/design/hiddenremains/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/ukryteszczatki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/hiddenremains/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
@@ -159,6 +169,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/design/asliceoftheworld/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/art/samples-of-alternative-death-symbols/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/sztuka/wzornik-alternatywnych-symboli-smierci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/art/samples-of-alternative-death-symbols/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>

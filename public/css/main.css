@@ -1085,6 +1085,11 @@
     margin-top: 1em;
     margin-bottom: 1em;
   }
+  #column ul li {
+    font-size: var(--text-xl);
+    line-height: 1.4;
+    letter-spacing: 0.002em;
+  }
   section#bio-additionals h2 {
     margin-top: calc(var(--spacing) * 10);
     margin-bottom: calc(var(--spacing) * 7);
@@ -1135,7 +1140,7 @@
   div#column h6 {
     margin-top: 0.3rem;
   }
-  div#column p, div#column h4 {
+  div#column p, div#column h4, div#column ul {
     margin-left: 16%;
     margin-right: 16%;
   }
@@ -1153,18 +1158,18 @@
   div#column p a:hover, section#column p a:hover, section#bio-additionals ul li a:hover {
     text-decoration: none;
   }
-  section#column ul, section#bio-additionals ul {
+  #column ul, section#bio-additionals ul {
     list-style-type: disc;
     list-style-position: inside;
   }
-  section#column ul li, section#bio-additionals ul li {
+  #column ul li, section#bio-additionals ul li {
     font-size: var(--text-xl);
     line-height: 1.4;
     letter-spacing: 0.002em;
   }
 }
 @media (max-width: 640px) {
-  p {
+  p, #column ul li {
     line-height: 1.2;
   }
   h1 {
@@ -1185,7 +1190,7 @@
   }
 }
 @media (max-width: 768px) {
-  div#column p, div#column h4 {
+  div#column p, div#column h4, #column ul {
     margin-left: 0;
     margin-right: 0;
   }
@@ -1199,7 +1204,7 @@
   }
 }
 @media (min-width: 1280px) {
-  p, section#column ul li, section#bio-additionals ul li {
+  p, #column ul li, section#bio-additionals ul li {
     font-size: var(--text-2xl);
     line-height: 1.3;
   }
@@ -1208,7 +1213,7 @@
   }
 }
 @media (min-width: 1536px) {
-  p, section#column ul li, section#bio-additionals ul li {
+  p, #column ul li, section#bio-additionals ul li {
     font-size: var(--text-3xl);
   }
   h4 {
