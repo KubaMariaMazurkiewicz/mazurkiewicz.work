@@ -8,12 +8,7 @@
       }
     }
   ],
-  "hooks": {},
-  "routes": [],
-  "env": {},
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.114.3"
-    }
-  }
+  "routes": [
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
 }
