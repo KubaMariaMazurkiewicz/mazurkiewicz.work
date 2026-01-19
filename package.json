@@ -1,6 +1,12 @@
 {
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.14",
+    "hugo-bin": "^0.149.2",
     "tailwindcss": "^4.1.14"
+  }
+}
+{
+  "scripts": {
+    "build": "hugo --gc --minify"
   }
 }
