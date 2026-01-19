@@ -79,5 +79,5 @@ Premiera książki odbyła się 31 października 2022 roku w ramach festiwalu _S
 ###### Zdjęcia Emi Buchwald i Michała Drabika
 
 Po premierze książkę prezentowałem również w:
-- Galerii Sztuki Współczesnej w Opolu, 1 lutego 2024 roku, spotkanie autorskie moderowane przez Martę Miś,
-- Państwowym Muzeum Etnograficznym w Warszawie, 9 kwietnia 2024, dyskusja pod tytułem _Ostatnie pożegnanie. Rozmowy o śmierci i ceremoniach pogrzebowych_.
+- Galerii Sztuki Współczesnej w Opolu, 1 lutego 2024 roku podczas spotkania autorskiego moderowanego przez Martę Miś.
+- Państwowym Muzeum Etnograficznym w Warszawie, 9 kwietnia 2024, w ramach dyskusji pod tytułem _Ostatnie pożegnanie. Rozmowy o śmierci i ceremoniach pogrzebowych_.
