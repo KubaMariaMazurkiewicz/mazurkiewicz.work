@@ -31,7 +31,7 @@ Udział wzięli i wzięły: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Miko
 ![Rozkładówka z symbolem pustego pokoju na lewej stronie i czerwoną fotografią miasta i światłem z jednego mieszkania na prawej stronie](/images/wzornik/wzornik07.webp)
 {{< /gallery >}}
 
-Publikacja jest albumem jednego obrazu – _Wzornika alternatywnych symboli śmierci dla branży pogrzebowej_, zawiera blisko piędziesiąt czarno-białych graficznych znaków śmierci i żałoby. Książka została wydana przez Dar Dobryszyc w limitowanym nakładzie dwustu sygnowanych kopii. Dwukolorowy druk offsetowy, format 17 cm × 24 cm, 124 strony.
+Publikacja jest albumem jednego obrazu – _Wzornika alternatywnych symboli śmierci dla branży pogrzebowej_, zawiera blisko pięćdziesiąt czarno-białych graficznych znaków śmierci i żałoby. Książka została wydana przez Dar Dobryszyc w limitowanym nakładzie dwustu sygnowanych kopii. Dwukolorowy druk offsetowy, format 17 cm × 24 cm, 124 strony.
 
 ![Obraz "Wzornik alternatywnych symboli śmierci dla branży pogrzebowej" wisi na ścianie](/images/wzornik/wzornik18.webp)
 ###### _Wzornik alternatywnych symboli śmierci dla branży pogrzebowej_, olej na płótnie, 300 cm × 150 cm, 2021.
