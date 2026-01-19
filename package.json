@@ -7,6 +7,7 @@
     "tailwindcss": "^4.1.14"
   },
   "scripts": {
-    "build": "hugo-bin"
+    "build": "npx hugo-bin",
+    "dev": "npx hugo-bin server --disableFastRender"
   }
 }
