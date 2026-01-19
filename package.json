@@ -5,6 +5,8 @@
     "@tailwindcss/cli": "^4.1.14",
     "tailwindcss": "^4.1.14"
   },
-"scripts": {
-  "build": "bash ./install-hugo.sh && hugo"
+  "scripts": {
+    "build": "bash ./install-hugo.sh && hugo",
+    "dev": "hugo server --disableFastRender"
+  }
 }
