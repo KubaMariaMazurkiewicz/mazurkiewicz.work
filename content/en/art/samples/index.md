@@ -16,7 +16,7 @@ A funeral is a highly conventionalised ritual. The nature of the ceremony often 
 
 Participants: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, Michał Drabik, Hubert Francuz, Sara Francuz, Anja Franczak, Małgorzata Gurowska, Maciej Januszewski, Piotr Kieżun, Andrzej Krauze, Gabriel Krauze, Radek Łukasiewicz, Hanna Mazurkiewicz, Jonasz Mazurkiewicz, Janek Owczarek, Jędrek Owsiński, Katarzyna Roj, Anna Siekierska, Agata Szydłowska, Paweł Sysiak, Maryna Tomaszewska, Konrad Trzeszczykowski, Łukasz Walendziuk, Jan Wiśniewski, and Jarek Ważny.
 
-#### The book was recognised in the Most Beautiful Polish Books of 2022 comeptition organised by the Polish Association of Book Publishers.
+#### The book was recognised in the Most Beautiful Polish Books of 2022 competition organised by the Polish Association of Book Publishers.
 
 ![Book cover with black background, white title, and red circle at the top](/images/wzornik/wzornik02.webp)
 {{< gallery >}}
