@@ -2,8 +2,7 @@
   "builds": [
     {
       "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "public" }
+      "use": "@hugojs/vercel-builder"
     }
   ],
   "routes": [
