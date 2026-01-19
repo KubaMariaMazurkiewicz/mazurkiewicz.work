@@ -14,7 +14,7 @@ institution: Dar Dobryszyc, Komuna Warszawa
 
 Pogrzeb jest wyjątkowo skonwencjonalizowanym rytuałem. Charakter wydarzenia zazwyczaj nie odpowiada stylowi życia zmarłej osoby. Brakuje nam stylów śmierci skorelowanych ze stylami życia. Drobnym krokiem w stronę indywidualizacji obrzędowości funeralnej jest zestaw alternatywnych symboli śmierci i żałoby. Książeczka zawiera ich solidny pakiet. Niektórym towarzyszy refleksja zaproszonych bliskich oraz dalszych.
 
-Udział wzięli i wzięły: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, Michał Drabik, Hubert Francuz, Sara Francuz, Anja Franczak, Małgorzata Gurowska, Maciej Januszewski, Piotr Kieżun, Andrzej Krauze, Gabriel Krauze, Radek Łukasiewicz, Hanna Mazurkiewicz, Jonasz Mazurkiewicz, Janek Owczarek, Jędrek Owsiński, Katarzyna Roj, Anna Siekierska, Agata Szydłowska, Paweł Sysiak, Maryna Tomaszewska, Konrad Trzeszczykowski, Łukasz Walendziuk, Jan Wiśniewski i Jarek Ważny.
+Udział wzięli i wzięły: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, Michał Drabik, Hubert Francuz, Sara Francuz, Anja Franczak, Małgorzata Gurowska, Maciej Januszewski, Piotr Kieżun, Andrzej Krauze, Gabriel Krauze, Radek Łukasiewicz, Hanna Mazurkiewicz, Jonasz Mazurkiewicz, Janek Owczarek, Jędrek Owsiński, Katarzyna Roj, Anna Siekierska, Agata Szydłowska, Paweł Sysiak, Maryna Tomaszewska, Konrad Trzeszczkowski, Łukasz Walendziuk, Jan Wiśniewski i Jarek Ważny.
 
 #### Książka została wyróżniona w konkursie Najpiękniejsze Polskie Książki 2022 Polskiego Towarzystwa Wydawców Książek.
 

@@ -14,7 +14,7 @@ institution: Dar Dobryszyc, Komuna Warszawa
 
 A funeral is a highly conventionalised ritual. The nature of the ceremony often does not correspond to the lifestyle of the deceased. We lack death styles that correlate with our lifestyles. One small step towards the individualisation of funeral rituals is this set of alternative symbols of death and mourning. The book contains a solid collection of them, some of which are accompanied by commentary from invited relatives and friends.
 
-Participants: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, Michał Drabik, Hubert Francuz, Sara Francuz, Anja Franczak, Małgorzata Gurowska, Maciej Januszewski, Piotr Kieżun, Andrzej Krauze, Gabriel Krauze, Radek Łukasiewicz, Hanna Mazurkiewicz, Jonasz Mazurkiewicz, Janek Owczarek, Jędrek Owsiński, Katarzyna Roj, Anna Siekierska, Agata Szydłowska, Paweł Sysiak, Maryna Tomaszewska, Konrad Trzeszczykowski, Łukasz Walendziuk, Jan Wiśniewski, and Jarek Ważny.
+Participants: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, Michał Drabik, Hubert Francuz, Sara Francuz, Anja Franczak, Małgorzata Gurowska, Maciej Januszewski, Piotr Kieżun, Andrzej Krauze, Gabriel Krauze, Radek Łukasiewicz, Hanna Mazurkiewicz, Jonasz Mazurkiewicz, Janek Owczarek, Jędrek Owsiński, Katarzyna Roj, Anna Siekierska, Agata Szydłowska, Paweł Sysiak, Maryna Tomaszewska, Konrad Trzeszczkowski, Łukasz Walendziuk, Jan Wiśniewski, and Jarek Ważny.
 
 #### The book was recognised in the Most Beautiful Polish Books of 2022 competition organised by the Polish Association of Book Publishers.
 
