@@ -7,6 +7,6 @@
     "tailwindcss": "^4.1.14"
   },
   "scripts": {
-    "build": "hugo --gc --minify"
+    "build": "npx hugo --gc --minify"
   }
 }
