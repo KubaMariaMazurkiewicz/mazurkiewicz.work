@@ -30,9 +30,10 @@ Participants: Emi Buchwald, Maciej Buchwald, Inga Cendrowicz, Mikołaj Chylak, M
 ![Book spread with empty room symbol on the left and red city photograph with light shining from one apartment](/images/wzornik/wzornik07.webp)
 {{< /gallery >}}
 
-The book is an album of a single painting – _Samples of Alternative Death Symbols for the Funeral Industry_, 2021, oil diptych on canvas, 300 cm × 150 cm and 30 cm × 30 cm. It contains almost fifty black-and-white graphic signs of death and mouring. The book was published by Dar Dobryszyc in a limited edition of 200 signed copies. Two-colour offest printing, format 17 cm × 24 cm, 124 pages.
+The book is an album of a single painting – _Samples of Alternative Death Symbols for the Funeral Industry_. It contains almost fifty black-and-white graphic signs of death and mouring. The book was published by Dar Dobryszyc in a limited edition of 200 signed copies. Two-colour offest printing, format 17 cm × 24 cm, 124 pages.
 
 ![Painting titled "Samples of Alternative Death Symbols for the Funeral Industry" hanging on the wall](/images/wzornik/wzornik18.webp)
+###### _Samples of Alternative Death Symbols for the Funeral Industry_, oil on canvas, 300 cm × 150 cm, 2021.
 
 ![Three white and two black T-shirts with selected symbols hanging on the wall](/images/wzornik/wzornik08.webp)
 

@@ -26,7 +26,7 @@ Naszą metodologię opisałem w artykule [_Hiperlokalne badania artystyczne: Bar
 Fotografia _Tabula Rasa_ przedstawia mapę stojącą obok kościoła we wsi Kaski. Promienie słońca pochłonęły zarys miejsc i pozostawiły pustą tablicę, na której może pojawić się lotnisko lub cokolwiek innego.
 
 ![Drewniana instalacja przypominająca częściwo byka lub tura, a częściowo most. Praca stoi w białym pomieszczeniu galeryjnym.](/images/czasprzyszlykonceptualny/czasprzyszlykonceptualny_04.webp)
-###### Małgorzata Gurowska, Kuba Maria Mazurkiewicz, Anna Siekierska, _Ruina_, drewno, wkręty, farba akrylowa 2025
+###### Małgorzata Gurowska, Kuba Maria Mazurkiewicz, Anna Siekierska, _Ruina_, drewno, wkręty, farba akrylowa, 2025
 
 Podczas jednej z wycieczek Karol Trammer pokazał nam nigdy niedokończony most Elektrycznej Kolei Dojazdowej w Radziejowicach-Parceli. Konstrukcja wiaduktu uderzyła nas nieodpartą zwierzęcością. Pracując nad instalacją szukaliśmy odpowiedzi na pytanie, co łączy ruinę inwestycyjną z ruiną gatunku – ostatnią turzycą. Drewno użyte do zbudowania Ruiny pochodzi z okolic Puszczy Jaktorowskiej.
 
