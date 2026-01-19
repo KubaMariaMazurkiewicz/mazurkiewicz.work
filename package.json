@@ -3,11 +3,8 @@
   "private": true,
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.14",
-    "hugo-bin": "^0.149.2",
     "tailwindcss": "^4.1.14"
   },
-  "scripts": {
-    "build": "npx hugo-bin",
-    "dev": "npx hugo-bin server --disableFastRender"
-  }
+"scripts": {
+  "build": "bash ./install-hugo.sh && hugo"
 }
