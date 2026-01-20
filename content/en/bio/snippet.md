@@ -20,7 +20,7 @@
 - [_W–E: Life Between the West and the East_]({{< relref "art/we" >}}), Oficyna Peryferie 2025
 - ed., [_Czasoprzestrzenna Podróż Krajoznawcza. Okolice Baranowa_]({{< relref "art/time-spacesightseeingtrip" >}}) [Time-Space Sightseeing Trip: The Surroundings of Baranów], Dar Dobryszyc 2025
 - ed., _Do źródła. Wskroś ziemi łódzkiej do granic Jury_ [To the Source: Through the Łódź Region to the Borders of the Jura], Dar Dobryszyc 2024
-- _Wzornik alternatywnych symboli śmierci_ [Samples of Alternative Death Symbols], Dar Dobryszyc 2022
+- [_Wzornik alternatywnych symboli śmierci_]({{< relref "art/samples" >}}) [Samples of Alternative Death Symbols], Dar Dobryszyc 2022
 
 ## Selected articles
 
