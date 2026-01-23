@@ -89,7 +89,7 @@ p:empty {
     /* margin-bottom: 2rem; */
   }
 
-  div#column p, div#column h4, div#column ul {
+  div#column p, div#column h2, div#column h3, div#column h4, div#column ul {
     margin-left: 16%;
     margin-right: 16%;
   }
@@ -98,8 +98,8 @@ p:empty {
     line-height: 1.2;
   }
 
-  section#column h4 {
-    margin-top: 4rem;
+  div#column h3 {
+    margin-top: 2rem;
     margin-bottom: 1rem;
   }
 
@@ -139,7 +139,7 @@ p:empty {
   h2 {
     font-size: var(--text-4xl);
   }
-  div#column p, div#column h4 {
+  div#column p, div#column h2, div#column h3, div#column h4 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -153,7 +153,7 @@ p:empty {
 
 /* md */
 @media (max-width: 768px) {
-  div#column p, div#column h4, #column ul {
+  div#column p, div#column h2, div#column h3, div#column h4, #column ul {
     margin-left: 0;
     margin-right: 0;
   }

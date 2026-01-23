@@ -21,7 +21,7 @@ Wystawa _Ukryte szczątki. Centralnie planowana architektura mieszkaniowa na wsi
 {{< /gallery >}}
 ###### Zdjęcia Jerzego Wypycha
 
-Opracowałem identyfikację wizualną wystawy, obejmującą plakaty, elementy typograficzne i infografiki. W projekcie plakatu użyłem zdjęć Jędrzeja Sokołowskiego i nagłówkowego fontu RL Limo Radka Łukasiewicza.
+Opracowałem identyfikację wizualną wystawy, obejmującą plakaty, elementy typograficzne i infografiki. W projekcie plakatu użyłem zdjęć Jędrzeja Sokołowskiego i fontów: RL Limo Radka Łukasiewicza i Tekio Grotesk Medium Jana Estrady-Osmyckiego.
 
 {{< gallery >}}
 ![Plakat wystawy: tytuł po lewej stronie, fotografia przedstawiająca blok pośród pól po prawej.](/images/ukryteszczatki/ukryteszczatki_06.webp)

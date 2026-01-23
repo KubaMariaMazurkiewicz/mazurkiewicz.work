@@ -21,7 +21,7 @@ _Hidden Remains. Centrally Planned Housing of the Polish Countryside_ was an exh
 {{< /gallery >}}
 ###### Photos by Jerzy Wypych
 
-I was responsible for the exhibition’s visual identity, including posters, typographic elements, and infographics. The poster design featured photographs by Jędrzej Sokołowski and used the RL Limo headline typeface by Radek Łukasiewicz.
+I was responsible for the exhibition’s visual identity, including posters, typographic elements, and infographics. The poster design featured photographs by Jędrzej Sokołowski and used: the RL Limo headline typeface by Radek Łukasiewicz and the Tekio Grotesk Medium by Jan Estrada-Osmycki.
 
 {{< gallery >}}
 ![Exhibition poster: title on the left and a photo of a block of flats in a field on the right.](/images/ukryteszczatki/ukryteszczatki_06.webp)

@@ -1140,15 +1140,15 @@
   div#column h6 {
     margin-top: 0.3rem;
   }
-  div#column p, div#column h4, div#column ul {
+  div#column p, div#column h2, div#column h3, div#column h4, div#column ul {
     margin-left: 16%;
     margin-right: 16%;
   }
   div#column h4 {
     line-height: 1.2;
   }
-  section#column h4 {
-    margin-top: 4rem;
+  div#column h3 {
+    margin-top: 2rem;
     margin-bottom: 1rem;
   }
   div#column p a, section#column p a, section#bio-additionals ul li a {
@@ -1178,7 +1178,7 @@
   h2 {
     font-size: var(--text-4xl);
   }
-  div#column p, div#column h4 {
+  div#column p, div#column h2, div#column h3, div#column h4 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -1190,7 +1190,7 @@
   }
 }
 @media (max-width: 768px) {
-  div#column p, div#column h4, #column ul {
+  div#column p, div#column h2, div#column h3, div#column h4, #column ul {
     margin-left: 0;
     margin-right: 0;
   }
