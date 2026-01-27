@@ -6,8 +6,15 @@
     <description>Recent content on Kuba Maria Mazurkiewicz</description>
     <generator>Hugo</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architektura i elektryczność</title>
+      <link>http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/</guid>
+      <description>&lt;p&gt;Książka Filipa Burno &lt;em&gt;Architektura i elektryczność. 1880–1940. Konstruowanie, doświadczanie, reprezentacja&lt;/em&gt; została wydana w 2025 roku przez Akademię Sztuk Pięknych w Warszawie. To bogato ilustrowane studium wdrażania energii elektrycznej i sztucznego oświetlenia w budownictwie.&lt;/p&gt;&#xA;&lt;p&gt;&lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/architekturaielektrycznosc/architekturaielektrycznosc_03.webp&#34;&#xA;  alt=&#34;Okładka książki: tył, grzbiet i front&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moim celem było opracowanie projektu graficznego współgrającego z prezentowaną w publikacji ikonografią. Monochromatyczne archiwalne materiały wizualne zdeterminowały czarno-białą, oszczędną stylistykę. Tylko na okładce pojawia się kolor żółty imitujący rozświetlenie przeszkolonych fasad i wnętrz budynków. Książka wypełniona jest pieczołowicie zebranymi fotografiami, projektami, schematami i materiałami propagandowymi.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wystawy plenerowe</title>
       <link>http://localhost:1313/pl/oferta/wystawyplenerowe/</link>

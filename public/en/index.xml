@@ -6,8 +6,15 @@
     <description>Recent content on Kuba Maria Mazurkiewicz</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture and Electricity</title>
+      <link>http://localhost:1313/en/design/architectureandelectricity/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/design/architectureandelectricity/</guid>
+      <description>&lt;p&gt;Filip Burno’s book &lt;em&gt;Architektura i elektryczność. 1880–1940. Konstruowanie, doświadczanie, reprezentacja&lt;/em&gt; [Architecture and Electricity: 1880–1940: Constructing, Experiencing, Representation] was published by the Academy of Fine Arts in Warsaw in 2025. It is a richly illustrated study of the use of electrical energy and artificial lighting in construction.&lt;/p&gt;&#xA;&lt;p&gt;&lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/architekturaielektrycznosc/architekturaielektrycznosc_03.webp&#34;&#xA;  alt=&#34;Full book cover spread with back cover, spine, and front cover visible&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;My goal was to create a graphic design for the publication that would harmonise with the presented iconography. Monochromatic archival visuals determined the black-and-white, minimalist character of the book. Yellow appears only on the cover, referencing the glow of the illuminated glass façades and building interiors. The publication contains meticulously selected photographs, architectural drawings, diagrams, and propaganda materials.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hidden Remains</title>
       <link>http://localhost:1313/en/design/hiddenremains/</link>
