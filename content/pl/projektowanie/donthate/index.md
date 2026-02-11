@@ -16,7 +16,7 @@ Najważniejszy polski konkurs malarski Bielska Jesień odbywa się raz na dwa l
 
 W 2024 roku pokaz _Don’t hate the player, hate the game_ opracowali Janek Owczarek i Piotr Policht. Kuratorzy zainteresowali się relacją pomiędzy malarstwem i rynkiem sztuki. Zastanawiali nad tym, jak artyści radzą sobie z galeriami, kolekcjonerami i własnymi twórczymi potrzebami. W tekście wprowadzającym pisali:
 
-> Obraz był, jest i będzie również towarem. Dobry obraz poznać można po tym, że zawsze jest jeszcze czymś więcej.
+> Obraz był, jest i będzie również towarem. Dobry obraz poznać można  po tym, że zawsze jest jeszcze czymś więcej.
 
 Opracowałem pełną identyfikację wizualną wydarzenia, składającą się z plakatów, aranżacji i katalogu wystawy.
 
@@ -57,7 +57,7 @@ Wystawa zajmowała dwa piętra Galerii Bielskiej BWA. Również na ekspozycji po
 ![Klimatyczne, rozmyte zdjęcie osób w przestrzeni galerii widzianych przez folię bąbelkową.](/images/donthate/donthate_15.webp)
 {{< /gallery >}}
 
-Folia została użyta do zbudowania pomieszczenia w kształcie kaplicy na górnym piętrze. Jej przezroczyste ściany ukrywały obrazy, widzowie mogli poczuć się jakby byli razem z nimi zapakowani.
+Folia została użyta do zbudowania pomieszczenia w kształcie kaplicy na górnym piętrze. Jej przezroczyste ściany ukrywały obrazy, widzowie mogli poczuć się jakby byli zapakowani razem z nimi.
 
 ![Widok kaplicy w przyciemnionym świetle; obraz przedstawiający odbicie w wodzie zawieszony za półprzezroczystym ekranem z folii bąbelkowej.](/images/donthate/donthate_19.webp)
 

@@ -1,5 +1,5 @@
 ## Solo exhibitions
-- _Wzornik alternatywnych symboli śmierci_ [Samples of Alternative Death Symbols], Komuna Warszawa, 2022
+- [_Wzornik alternatywnych symboli śmierci_]({{< relref "art/samples" >}}) [Samples of Alternative Death Symbols], Komuna Warszawa, 2022
 - _Funerary Imagination: In View of the Polish Burial Law 1959–2021_, Dizajn BWA Wrocław, 2021/2022
 - _Miasto i okolice_ [City and Surroundings], Kato, Katowice 2014
 

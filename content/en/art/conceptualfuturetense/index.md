@@ -1,7 +1,7 @@
 ---
 translationKey: czasprzyszlykonceptualny
 date: 2025-06-30
-featured: true
+featured: false
 title: Conceptual Future Tense
 slug: conceptualfuturetense
 cover: /images/czasprzyszlykonceptualny/czasprzyszlykonceptualny_15.webp

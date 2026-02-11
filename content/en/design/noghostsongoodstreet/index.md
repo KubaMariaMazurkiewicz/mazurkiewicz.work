@@ -3,7 +3,7 @@ translationKey: niemaduchow
 date: 2025-10-09
 featured: true
 title: No Ghosts on Good Street
-cover: /images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_01.webp
+cover: /images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_02.webp
 description: Poster design for the film by Emi Buchwald
 fulltitle: No Ghosts on Good Street
 year: 2025

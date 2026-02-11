@@ -1,5 +1,5 @@
 ## Wystawy indywidualne
-- _Wzornik alternatywnych symboli śmierci_, Komuna Warszawa, 2022
+- [_Wzornik alternatywnych symboli śmierci_]({{< relref "sztuka/wzornik" >}}), Komuna Warszawa, 2022
 - _Wyobraźnia funeralna. Wobec polskiego prawa pogrzebowego 1959–2021_, Dizajn BWA Wrocław, 2021/2022
 - _Miasto i okolice_, Kato, Katowice 2014
 

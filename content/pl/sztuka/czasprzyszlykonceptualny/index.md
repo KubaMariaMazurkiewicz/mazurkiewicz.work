@@ -1,7 +1,7 @@
 ---
 translationKey: czasprzyszlykonceptualny
 date: 2025-06-30
-featured: true
+featured: false
 title: Czas Przyszły Konceptualny
 slug: czasprzyszlykonceptualny
 cover: /images/czasprzyszlykonceptualny/czasprzyszlykonceptualny_15.webp
