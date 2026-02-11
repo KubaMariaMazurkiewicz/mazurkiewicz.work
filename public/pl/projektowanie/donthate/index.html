@@ -1,0 +1,417 @@
+<!doctype html>
+
+  <html lang="pl">
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KMM: Don’t hate the player, hate the game</title>
+
+    
+<meta name="description" content="Identyfikacja wizualna, projekt książki i aranżacja wystawy kuratorskiej Bielskiej Jesieni">
+<meta property="og:title" content="Don’t hate the player, hate the game">
+<meta property="og:description" content="Identyfikacja wizualna, projekt książki i aranżacja wystawy kuratorskiej Bielskiej Jesieni">
+    
+<meta property="og:url" content="http://localhost:1313/pl/projektowanie/donthate/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+    
+    
+<meta name="keywords" content="projektowanie, sztuka">
+<meta name="author" content="Kuba Maria Mazurkiewicz" >
+<meta name="robots" content="index, follow" >
+<link rel="canonical" href="http://localhost:1313/pl/projektowanie/donthate/">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+        
+  
+  
+    
+      <link rel="stylesheet" href="/css/main.css">
+    
+  
+
+    
+</head>
+
+<body class="m-5 mt-4 bg-white text-gray-900 dark:bg-stone-900 dark:text-gray-300">
+
+<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex flex-col sm:flex-row items-center justify-between">
+  
+  <div class="group z-80">
+    
+    <a href="/pl/" class="relative inline-block">
+      <div class="flex space-x-2.5 items-center">
+        <div class="-rotate-5 group-hover:rotate-0 transition-transform duration-200">Kuba</div>
+        <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
+        <div class="-rotate-2 group-hover:rotate-0 transition-transform duration-200">Mazurkiewicz</div>
+      </div>
+      <span class="absolute left-0 bottom-[3px] w-full h-[2px] xl:h-[3px] bg-stone-900 dark:bg-gray-300 opacity-0 transition-opacity delay-200 group-hover:opacity-100"></span>
+    </a>
+  </div>
+
+  <div class="group z-99999 mt-3 sm:mt-0">
+  
+  <button id="menu-toggle"
+          class="lg:hidden uppercase tracking-tighter font-medium focus:outline-none relative
+                 after:content-[''] after:absolute after:left-0 after:-bottom-0 after:w-full after:h-[2px] after: dark:bg-stone-900 after:dark:bg-gray-300 after:opacity-0 hover:after:opacity-100 after:transition-opacity after:duration-0 z-50 leading-none cursor-pointer">
+    MENU
+  </button>
+
+  
+  <ul id="menu"
+      class="fixed inset-0 flex flex-col items-center justify-center 
+             bg-white text-center opacity-0 invisible transition-all duration-100 ease-in-out
+             lg:static lg:flex-row lg:space-y-0 lg:space-x-5 lg:bg-transparent lg:opacity-100 lg:visible dark:bg-stone-900">
+        <li><a href="/pl/projektowanie/" class="underline" style="text-underline-offset: 3px">Projektowanie</a></li>
+        <li><a href="/pl/sztuka/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Sztuka</a></li>
+        <li><a href="/pl/biogram/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Biogram</a></li>
+
+    <li>
+      
+        <a href="/en/design/donthate/" hreflang="en" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">English</a>
+      
+    </li>
+  </ul>
+</div>
+</nav>
+
+
+
+<script>
+(function() {
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('menu');
+  const lang = "pl";
+  let open = false;
+
+  toggle.addEventListener('click', () => {
+    open = !open;
+
+    if (open) {
+      
+      menu.classList.remove('opacity-0', 'invisible');
+      menu.classList.add('opacity-100', 'visible');
+      toggle.textContent = lang === "pl" ? "ZAMKNIJ" : "CLOSE";
+      document.body.classList.add('overflow-hidden'); 
+    } else {
+      
+      menu.classList.add('opacity-0', 'invisible');
+      menu.classList.remove('opacity-100', 'visible');
+      toggle.textContent = 'MENU';
+      document.body.classList.remove('overflow-hidden');
+    }
+  });
+})();
+</script>
+
+
+<section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
+    <h6>Projektuję 🪄 i robię 👷‍♂️ sztukę:</h6>
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>669 269 930</h6>
+</section>
+
+
+  
+  <section id="single" class="m-auto lg:max-w-8/10 mb-20">
+    <h1 class="text-8xl text-center mb-5">Don’t hate the player, hate the game</h1>
+    <h2 class="text-center mb-20">2024</h2>
+    
+    <div id="column">
+        <p>Najważniejszy polski konkurs malarski Bielska Jesień odbywa się raz na dwa lata. Pomiędzy edycjami organizowane są wystawy kuratorskie.</p>
+<p>W 2024 roku pokaz <em>Don’t hate the player, hate the game</em> opracowali Janek Owczarek i Piotr Policht. Kuratorzy zainteresowali się relacją pomiędzy malarstwem i rynkiem sztuki. Zastanawiali nad tym, jak artyści radzą sobie z galeriami, kolekcjonerami i własnymi twórczymi potrzebami. W tekście wprowadzającym pisali:</p>
+<blockquote>
+<p>Obraz był, jest i będzie również towarem. Dobry obraz poznać można po tym, że zawsze jest jeszcze czymś więcej.</p></blockquote>
+<p>Opracowałem pełną identyfikację wizualną wydarzenia, składającą się z plakatów, aranżacji i katalogu wystawy.</p>
+<p><div>
+<img
+  src="/images/donthate/donthate_01.webp"
+  alt="Słup ogłoszeniowy w parku oklejony dużymi różowymi i brzoskwiniowymi plakatami wystawy w Galerii Bielskiej BWA."
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<p>Kluczowym elementem języka wizualnego była folia bąbelkowa. Czasem przykrywała, a czasem odsłaniała typografię i obrazy. Jest to materiał powszechnie stosowany do pakowania i transportowania dzieł sztuki – zawinięte w folię płótno staje się towarem. W plakatach i materiałach promocyjnych zastosowałem cztery pastelowe kolory: magentę, zielony, pomarańczowy i różowy. Typografia oparta jest na jednym bezszeryfowym kroju – Open Sauce. Kontrasty budowałem za pomocą skali i relacji przestrzennych.</p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_02.webp"
+  alt="Zbliżenie na plakat wystawy z datami i nazwiskami artystów, z grafiką przedstawiającą folię bąbelkową na brzoskwiniowym tle."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_03.webp"
+  alt="Zbliżenie na różowy plakat wystawy z fragmentem tytułu i teksturą przypominającą przezroczystą folię bąbelkową."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<p><div>
+<img
+  src="/images/donthate/donthate_04.webp"
+  alt="Przechodnie mijają witrynę galerii, w której wyeksponowano cztery kolorowe plakaty wystawy w kolorach różowym, zielonym, żółtym i beżowym."
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_05.webp"
+  alt="Trójwymiarowy rzut izometryczny wąskiego skrzydła galerii, pokazujący rozmieszczenie dzieł sztuki wzdłuż przeszklonego korytarza."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_06.webp"
+  alt="Izometryczny plan głównej sali galerii, przedstawiający białe filary, fioletową ścianę oraz centralną konstrukcję foliowej kaplicy."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<p>Wystawa zajmowała dwa piętra Galerii Bielskiej BWA. Również na ekspozycji pojawiła się folia bąbelkowa. Jej rolki były porozstawiane w przestrzeni galerii podobnie jak w magazynie prywatnej galerii lub kolekcjonera.</p>
+<p><div>
+<img
+  src="/images/donthate/donthate_11.webp"
+  alt="Narożnik galerii z białymi ścianami; rolki folii bąbelkowej stoją w kącie obok obrazów pod napisami „Ekonomia daru” i „Salon”."
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_07.webp"
+  alt="Widok na galerię przez przejście; na pierwszym planie obraz przedstawiający duże zielone oczy, w tle sztalugi i różne dzieła sztuki."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_08.webp"
+  alt="Szeroki widok wnętrza galerii z fioletową ścianą po lewej stronie i wielkoformatowymi obrazami zamontowanymi na białych filarach w otwartej hali."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_10.webp"
+  alt="Seria czterech małych obrazów olejnych przedstawiających akty, zawieszonych w rzędzie na głębokim fioletowym tle ściany galerii z pomarańczowymi etykietami."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_09.webp"
+  alt="Ekspresjonistyczny, czarno-biały obraz przedstawiający przód samochodu na pierwszym planie, w tle małe portrety na fioletowej ścianie."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<h6 id="zdjęcia-krzysztofa-morcinka">Zdjęcia Krzysztofa Morcinka</h6>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_14.webp"
+  alt="Duża, prostopadłościenna instalacja – kaplica – wykonana z przemysłowej folii bąbelkowej, stojąca w centrum przestrzeni galerii."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_12.webp"
+  alt="Zbliżenie na półprzezroczystą kurtynę z folii bąbelkowej wiszącą w galerii z żółtą zawieszką z tytułem obrazu na tle zielonej ściany."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_15.webp"
+  alt="Klimatyczne, rozmyte zdjęcie osób w przestrzeni galerii widzianych przez folię bąbelkową."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<p>Folia została użyta do zbudowania pomieszczenia w kształcie kaplicy na górnym piętrze. Jej przezroczyste ściany ukrywały obrazy, widzowie mogli poczuć się jakby byli razem z nimi zapakowani.</p>
+<p><div>
+<img
+  src="/images/donthate/donthate_19.webp"
+  alt="Widok kaplicy w przyciemnionym świetle; obraz przedstawiający odbicie w wodzie zawieszony za półprzezroczystym ekranem z folii bąbelkowej."
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<p>Przywiązuję szczególną uwagę do detali typograficznych. Podpisy prac zostały wydrukowane na papierowych kartonikach przypominających sklepowe etykiety z otworami montażowymi w kształcie eurodziurki, używanej do wywieszania produktów na specjalnych regałach.</p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_13.webp"
+  alt="Intensywnie pomarańczowy narożnik galerii z zielono-żółtym obrazem abstrakcyjnym z motywem spirali i zagadkowym tekstem na dole."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_16.webp"
+  alt="Zbliżenie na żółtą etykietę ścienną do pracy Tymka Borowskiego „BWUOWRBU”, z widocznym powyżej fragmentem kolorowego obrazu."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_17.webp"
+  alt="Żółta karta identyfikacyjna przypięta do białej ściany, opisująca obraz Marioli Przyjemskiej „Saturn” (2015)."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<p><div>
+<img
+  src="/images/donthate/donthate_26.webp"
+  alt="Szeroka kompozycja graficzna przedstawiająca kolorowe grzbiety i okładki książek z motywami kluczy, dłoni w niebieskim świetle i kodów ISBN."
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<p>Wystawie towarzyszył katalog z reprodukcjami wszystkich prezentowanych obrazów i dwoma esejami: kuratorów i Agaty Pyzik. Książka została opublikowana w dwóch różnych okładkach, na których znalazły się wybrane obrazy. W paginacji części tekstowej zastosowałem numerację rzymską, a w sekcji z obrazami liczby arabskie.</p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_20.webp"
+  alt="Rozkładówka katalogu na purpurowym tle, przedstawiająca zdjęcia obrazów na ścianach galerii."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_21.webp"
+  alt="Rozkładówka książki na różowym tle; prawa strona pokazuje detal dzieła sztuki przesłoniętego teksturą folii bąbelkowej."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_22.webp"
+  alt="Rozkładówka książki z obrazem Zuzanny Bartoszek „U-Bahn”, przedstawiającym żółte, industrialne wnętrze z namalowanym napisem „AHA”."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_23.webp"
+  alt="Rozkładówka książki z ciemnoniebieskim obrazem Łukasza Radziszewskiego przedstawiającym wnętrze samochodu nocą, zatytułowanym „And The Romantic Horse”."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_24.webp"
+  alt="Rozkładówka książki z pracą Patrycji Cichosz „Dom Kątnika”, z wysokimi pionowymi kształtami i żółtą formą przypominającą pajęczynę."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/donthate/donthate_25.webp"
+  alt="Otwarta rozkładówka książki na purpurowym tle z esejem zatytułowanym „DE PICTURA” autorstwa Janka Owczarka i Piotra Polichta."
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+
+    </div>
+    
+    </section>
+
+
+
+
+
+  
+  
+  <footer class="mt-20">
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>669 269 930</h6>
+    <h6>ul. Kazimierzowska 22, Warszawa</h6>
+    <h6><a href="https://www.instagram.com/kubamariamazurkiewicz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/kubamariamazurkiewicz/" target="_blank">Facebook</a></h6>
+  </footer>
+
+
+</body>
+</html>
