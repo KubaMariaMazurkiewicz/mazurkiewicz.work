@@ -94,4 +94,4 @@ Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na 
 {{</gallery>}}
 
 ![Widok sali z dużym obrazem „Liberalna ironista” (wielkie czarne litery na białym tle). Obok wisi płótno z tęczowym wulkanem, a przed nimi stoi biała koszulka na stojaku.](/images/ruchytektoniczne/ruchytektoniczne_31.webp)
-###### Zdjęcia HaWy, Jonasza Mazurkiewicza i Piotra Tomczyka
+###### Zdjęcia HaWy, Jonasza Mazurkiewicza i Piotra Tomczyka 
