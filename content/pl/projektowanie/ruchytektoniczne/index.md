@@ -12,7 +12,7 @@ elements: identyfikacja wizualna, aranżacja wystawy
 institution: Muzeum Sztuki w Łodzi
 ---
 
-Od 18 listopada 2022 roku do 19 marca 2023 roku w Muzeum Sztuki w Łodzi (ms1) miała miejsce wystawa _Ruchy tektoniczne. O artystycznych symptomach transformacji_. Kurator Jakub Banasiak wybrał ponad sto dzieł stworzonych w latach 80. i 90. XX wieku w Polsce, kiedy PRL przekształcała się w III RP. Narracja wystawy została poprowadzona dwutorowo. Pierwsza ścieżka dotyczyła materii – kwestii gospodarczych i politycznych, druga skupiała się na metafizyce i przedstawiała różnorodność postaw duchowych czasów transformacji.
+Od 18 listopada 2022 do 19 marca 2023 roku w Muzeum Sztuki w Łodzi (ms1) miała miejsce wystawa _Ruchy tektoniczne. O artystycznych symptomach transformacji_. Kurator Jakub Banasiak wybrał ponad sto dzieł stworzonych w latach 80. i 90. XX wieku w Polsce. To wtedy PRL przekształcała się w III RP. Narracja wystawy została poprowadzona dwutorowo. Pierwsza ścieżka dotyczyła materii – kwestii gospodarczych i politycznych, druga skupiała się na metafizyce i przedstawiała różnorodność postaw duchowych czasów transformacji.
 
 W identyfikacji wizualnej zastosowałem font Labil Grotesk, którego przechylone, chwiejne znaki nawiązują do tytułowych ruchów tektonicznych, niestabilności i niejednoznaczności epoki.
 
@@ -23,11 +23,11 @@ W identyfikacji wizualnej zastosowałem font Labil Grotesk, którego przechylone
 ![Kolorowy plakat wykorzystujący zdjęcie przedstawiające osobę wspinającą się po sztucznej ściance wspinaczkowej. Tytuł wystawy naniesiony żółtą czcionką.](/images/ruchytektoniczne/ruchytektoniczne_04.webp)
 {{</gallery>}}
 
-Plakaty bazowały na najbardziej ikonicznych pracach pokazywanych na wystawie: _Wulkanie_ Marioli Przyjemskiej, _Posiłkach najuboższych_ Pawła Kwieka, kadrze z filmu _Emigrant_ Wilhelma Sasnala i pracy bez tytułu Piotra Uklańskiego.
+Plakaty bazują na najbardziej ikonicznych pracach pokazywanych na wystawie: _Wulkanie_ Marioli Przyjemskiej, _Posiłkach najuboższych_ Pawła Kwieka, kadrze z filmu _Emigrant_ Wilhelma Sasnala i pracy bez tytułu Piotra Uklańskiego.
 
 ![Zdjęcie makiety architektonicznej wystawy wykonane z góry (rzut). Model z białego kartonu przedstawia układ sal, umieszczony na niebieskiej macie modelarskiej z podziałką.](/images/ruchytektoniczne/ruchytektoniczne_05.webp)
 
-Proces projektowy oparłem na papierowej makiecie w skali 1:100, będącej punktem wyjścia do przygotowania produkcyjnych rozrysów ścian i rzutów. Fizyczny model pozwala na sprawne testowanie rozmieszczenia obiektów w salach i intuicyjne wyczucie skali. To również rozwiązanie pomocne podczas spotkań warsztatowych i rozmów z kuratorem.
+Proces projektowy oparłem na papierowej makiecie w skali 1:100, będącej punktem wyjścia do przygotowania produkcyjnych rozrysów ścian i rzutów. Fizyczny model pozwala na sprawne testowanie rozmieszczenia obiektów w salach i intuicyjne wyczucie skali. Było to również rozwiązanie pomocne podczas spotkań warsztatowych i rozmów z kuratorem.
 
 {{<gallery>}}
 ![Widok wnętrza makiety wykonany z niskiej perspektywy. W miniaturowych salach widać reprodukcje dzieł sztuki na postumentach i ścianach, co oddaje planowaną aranżację przestrzeni.](/images/ruchytektoniczne/ruchytektoniczne_06.webp)
@@ -50,7 +50,7 @@ Proces projektowy oparłem na papierowej makiecie w skali 1:100, będącej punkt
 ![Ciemna sala z podświetlonym tekstem wyklejonym na ścianie „Pierwotne energie”. Poniżej stoi surowa, pionowa rzeźba o teksturze drewna z namalowaną ekspresyjną twarzą.](/images/ruchytektoniczne/ruchytektoniczne_14.webp)
 {{</gallery>}}
 
-Ekspozycja wymagała skonstruowania dedykowanych elementów etalażu w dekoracyjnej sali lustrzanej. Zastosowałem kontrastową do ozdobności ścian konstukcję z surowej sklejki. Umieściłem na niej dwustronne ramy służące do prezentacji odbitej na rewersie plakatu wyborczego grafiki Egona Fitke i dwustronnego obrazu Karola Suki.
+Ekspozycja wymagała skonstruowania dedykowanych elementów etalażu w dekoracyjnej sali lustrzanej. Zastosowałem kontrastową do ozdobnych ścian konstukcję z surowej sklejki. Umieściłem na niej dwustronne ramy, które posłużyły do prezentacji odbitej na rewersie plakatu wyborczego grafiki Egona Fietke oraz dwustronnego obrazu Karola Suki.
 
 {{<gallery>}}
 ![Zbliżenie na tablicę informacyjną zatytułowaną „Duch i materia / Spirit and Matter”. Po lewej stronie widać fragment obrazu z mrocznym pejzażem z dachami domów.](/images/ruchytektoniczne/ruchytektoniczne_15.webp)
@@ -64,7 +64,7 @@ Ekspozycja wymagała skonstruowania dedykowanych elementów etalażu w dekoracyj
 
 ![Biała ściana z tekstami i grafikami. Pod ścianą stoi prosty drewniany stolik, a po prawej, na podłodze, stary telewizor kineskopowy wyświetlający niebieskawy obraz.](/images/ruchytektoniczne/ruchytektoniczne_20.webp)
 
-Kolorystykę sekcji duchowej oparłem na ciemnych szarościach, żółcieni i ziemistych barwach. Tematy polityczno-gospodarcze zostały wyróżnione bielą, czerwienią i jasną szarością.
+Kolorystyka sekcji duchowej to ciemne szarości, żółcień i ziemiste barwy. Tematy polityczno-gospodarcze zostały wyróżnione bielą, czerwienią i jasną szarością.
 
 {{<gallery>}}
 ![Ekspresyjna, żółto-czerwona rzeźba postaci z rękami uniesionymi nad głową, stojąca przy czerwonej ścianie z napisem „Gniew i nadzieja”.](/images/ruchytektoniczne/ruchytektoniczne_21.webp)
@@ -81,7 +81,7 @@ Kolorystykę sekcji duchowej oparłem na ciemnych szarościach, żółcieni i zi
 ![Mężczyzna pochyla się nad szklaną gablotą w sali o żółtych ścianach. W tle widoczne są kolorowe obrazy i tablica z osią czasu transformacji.](/images/ruchytektoniczne/ruchytektoniczne_26.webp)
 {{</gallery>}}
 
-Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instacji i prac wideo, na wystawie zaprezentowane zostały również archiwalia i dokumenty życia społecznego. Procesy i przemiany okresu transformacji przeanalizowane zostały przy pomocy wykresów i osi czasów. Warstwa infograficzna ekspozycji  pozwoliła na obrazowe przedstawienie złożonych zależności.
+Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na wystawie zaprezentowane zostały również archiwalia i dokumenty życia społecznego. Procesy i przemiany okresu transformacji przeanalizowane zostały przy pomocy wykresów i osi czasu. Warstwa infograficzna ekspozycji  pozwoliła na obrazowe przedstawienie złożonych zależności.
 
 {{<gallery>}}
 ![Szara ściana z sekcją „Dezindustrializacja”. Widać na niej wykres słupkowy, małe obrazy (w tym portret robotnika) oraz monitor z wyświetlanym filmem.](/images/ruchytektoniczne/ruchytektoniczne_27.webp)
