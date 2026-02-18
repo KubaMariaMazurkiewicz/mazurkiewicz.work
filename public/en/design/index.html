@@ -1,0 +1,384 @@
+<!doctype html>
+
+  <html lang="en">
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KMM: design</title>
+
+    
+<meta name="description" content="">
+<meta property="og:title" content="design">
+<meta property="og:description" content="">
+    
+<meta property="og:url" content="http://localhost:1313/en/design/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+    
+    
+<meta name="keywords" content="design, art">
+<meta name="author" content="Kuba Maria Mazurkiewicz" >
+<meta name="robots" content="index, follow" >
+<link rel="canonical" href="http://localhost:1313/en/design/">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+        
+  
+  
+    
+      <link rel="stylesheet" href="/css/main.css">
+    
+  
+
+    
+</head>
+
+<body class="m-5 mt-4 bg-white text-gray-900 dark:bg-stone-900 dark:text-gray-300">
+
+<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex flex-col sm:flex-row items-center justify-between">
+  
+  <div class="group z-80">
+    
+    <a href="/en/" class="relative inline-block">
+      <div class="flex space-x-2.5 items-center">
+        <div class="-rotate-5 group-hover:rotate-0 transition-transform duration-200">Kuba</div>
+        <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
+        <div class="-rotate-2 group-hover:rotate-0 transition-transform duration-200">Mazurkiewicz</div>
+      </div>
+      <span class="absolute left-0 bottom-[3px] w-full h-[2px] xl:h-[3px] bg-stone-900 dark:bg-gray-300 opacity-0 transition-opacity delay-200 group-hover:opacity-100"></span>
+    </a>
+  </div>
+
+  <div class="group z-99999 mt-3 sm:mt-0">
+  
+  <button id="menu-toggle"
+          class="lg:hidden uppercase tracking-tighter font-medium focus:outline-none relative
+                 after:content-[''] after:absolute after:left-0 after:-bottom-0 after:w-full after:h-[2px] after: dark:bg-stone-900 after:dark:bg-gray-300 after:opacity-0 hover:after:opacity-100 after:transition-opacity after:duration-0 z-50 leading-none cursor-pointer">
+    MENU
+  </button>
+
+  
+  <ul id="menu"
+      class="fixed inset-0 flex flex-col items-center justify-center 
+             bg-white text-center opacity-0 invisible transition-all duration-100 ease-in-out
+             lg:static lg:flex-row lg:space-y-0 lg:space-x-5 lg:bg-transparent lg:opacity-100 lg:visible dark:bg-stone-900">
+        <li><a href="/en/design/" class="underline" style="text-underline-offset: 3px">Design</a></li>
+        <li><a href="/en/art/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Art</a></li>
+        <li><a href="/en/bio/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Bio</a></li>
+
+    <li>
+      
+        <a href="/pl/projektowanie/" hreflang="pl" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Polski</a>
+      
+    </li>
+  </ul>
+</div>
+</nav>
+
+
+
+<script>
+(function() {
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('menu');
+  const lang = "en";
+  let open = false;
+
+  toggle.addEventListener('click', () => {
+    open = !open;
+
+    if (open) {
+      
+      menu.classList.remove('opacity-0', 'invisible');
+      menu.classList.add('opacity-100', 'visible');
+      toggle.textContent = lang === "pl" ? "ZAMKNIJ" : "CLOSE";
+      document.body.classList.add('overflow-hidden'); 
+    } else {
+      
+      menu.classList.add('opacity-0', 'invisible');
+      menu.classList.remove('opacity-100', 'visible');
+      toggle.textContent = 'MENU';
+      document.body.classList.remove('overflow-hidden');
+    }
+  });
+})();
+</script>
+
+
+<section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
+    <h6>I design 🪄 and create 👷‍♂️ art:</h6>
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>00 48 669 269 930</h6>
+</section>
+
+
+  
+<img id="hoverPreview"
+     class="fixed pointer-events-none w-80 opacity-0 transition-opacity duration-150 z-50"
+     style="top:0; left:0;" />
+
+<ul class="text-2xl space-y-2 w-full">
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/architectureandelectricity/"
+    data-img="/images/architekturaielektrycznosc/architekturaielektrycznosc_01.webp"
+    data-img2x="/images/architekturaielektrycznosc/architekturaielektrycznosc_01.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">Architecture and Electricity</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">book design</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/thisroadwasendless/"
+    data-img="/images/tadrogabylabezkonca/tadrogabylabezkonca_01.webp"
+    data-img2x="/images/tadrogabylabezkonca/tadrogabylabezkonca_01.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">This Road Was Endless</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">exhibition design</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/hiddenremains/"
+    data-img="/images/ukryteszczatki/ukryteszczatki_05.webp"
+    data-img2x="/images/ukryteszczatki/ukryteszczatki_05.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">Hidden Remains</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/noghostsongoodstreet/"
+    data-img="/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_02.webp"
+    data-img2x="/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_02.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">No Ghosts on Good Street</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/claysinterform/"
+    data-img="/images/glinaspiekforma/glinaspiekforma_05.webp"
+    data-img2x="/images/glinaspiekforma/glinaspiekforma_05.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">Clay, Sinter, Form</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/bleaching/"
+    data-img="/images/wybielanie/wybielanie_01.webp"
+    data-img2x="/images/wybielanie/wybielanie_01.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">Bleaching</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/thephenomenal/"
+    data-img="/images/fenomenalny/fenomenalny_01.webp"
+    data-img2x="/images/fenomenalny/fenomenalny_01.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">The Phenomenal</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity, exhibition design, book design</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2025</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/donthate/"
+    data-img="/images/donthate/donthate_06.webp"
+    data-img2x="/images/donthate/donthate_06.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">Don’t hate the player, hate the game</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">visual identity, exhibition design, book design</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2024</span>
+  </a>
+</li>
+  
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+<li>
+  <a href="/en/design/asliceoftheworld/"
+    data-img="/images/kawalekswiata/kawalekswiata_02.webp"
+    data-img2x="/images/kawalekswiata/kawalekswiata_02.webp"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">A Slice of the World</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">book design</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">2024</span>
+  </a>
+</li>
+  
+</ul>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  
+  if ('ontouchstart' in window || navigator.maxTouchPoints > 0) {
+    return;
+  }
+
+  const hoverPreview = document.getElementById('hoverPreview');
+  const offsetX = 10;
+  const offsetY = 10;
+
+  document.querySelectorAll('ul li a[data-img]').forEach(link => {
+    link.addEventListener('mousemove', e => {
+      const isRetina = window.devicePixelRatio > 1;
+      const imgSrc = isRetina && link.dataset.img2x ? link.dataset.img2x : link.dataset.img;
+      hoverPreview.src = imgSrc;
+      hoverPreview.style.left = (e.pageX + offsetX) + 'px';
+      hoverPreview.style.top = (e.pageY + offsetY) + 'px';
+      hoverPreview.style.opacity = 1;
+    });
+
+    link.addEventListener('mouseleave', () => {
+      hoverPreview.style.opacity = 0;
+    });
+  });
+
+});
+</script>
+
+
+
+
+
+
+  
+  
+  <footer class="mt-20">
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>00 48 669 269 930</h6>
+    <h6>22 Kazimierzowska Street, Warsaw, Poland</h6>
+    <h6><a href="https://www.instagram.com/kubamariamazurkiewicz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/kubamariamazurkiewicz/" target="_blank">Facebook</a></h6>
+  </footer>
+
+
+</body>
+</html>

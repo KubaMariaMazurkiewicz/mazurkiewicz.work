@@ -1,0 +1,7 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $info := index site.Data.info $lang }}
+<section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
+    <h6>{{ $info.claim }}</h6>
+    <h6 class="underline-offset-3"><a href="mailto:{{ site.Params.mail }}">{{ site.Data.info.email }}</a></h6>
+    <h6>{{ $info.phone }}</h6>
+</section>

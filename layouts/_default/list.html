@@ -1,0 +1,63 @@
+{{ define "main" }}
+<img id="hoverPreview"
+     class="fixed pointer-events-none w-80 opacity-0 transition-opacity duration-150 z-50"
+     style="top:0; left:0;" />
+
+<ul class="text-2xl space-y-2 w-full">
+  {{ range .Pages }}
+    {{ $p := . }}
+    {{ $coverWebp1x := "" }}
+    {{ $coverWebp2x := "" }}
+
+    {{ $cover := $p.Params.cover | default "/images/fallback.webp" }}
+    {{ $coverWebp1x := $cover }}
+    {{ $coverWebp2x := $cover }}
+
+    {{ if not $coverWebp1x }}{{ $coverWebp1x = "/images/fallback.webp" }}{{ end }}
+    {{ if not $coverWebp2x }}{{ $coverWebp2x = "/images/fallback.webp" }}{{ end }}
+
+<li>
+  <a href="{{ .RelPermalink }}"
+    data-img="{{ $coverWebp1x }}"
+    data-img2x="{{ $coverWebp2x }}"
+    class="grid w-full hover:underline border-b border-black dark:border-gray-300 pb-1
+            [grid-template-columns:1fr] sm:[grid-template-columns:4fr_5fr_1fr] sm:gap-2 items-start">
+    <span class="text-left pr-5 mb-6 md:mb-0 leading-none">{{ .Title }}</span>
+    <span class="text-left text-lg sm:text-2xl leading-none">{{ .Params.elements }}</span>
+    <span class="text-left text-lg sm:text-2xl lg:text-right leading-none">{{ .Params.year }}</span>
+  </a>
+</li>
+  {{ end }}
+</ul>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  // Disable hover preview on touch devices
+  if ('ontouchstart' in window || navigator.maxTouchPoints > 0) {
+    return;
+  }
+
+  const hoverPreview = document.getElementById('hoverPreview');
+  const offsetX = 10;
+  const offsetY = 10;
+
+  document.querySelectorAll('ul li a[data-img]').forEach(link => {
+    link.addEventListener('mousemove', e => {
+      const isRetina = window.devicePixelRatio > 1;
+      const imgSrc = isRetina && link.dataset.img2x ? link.dataset.img2x : link.dataset.img;
+      hoverPreview.src = imgSrc;
+      hoverPreview.style.left = (e.pageX + offsetX) + 'px';
+      hoverPreview.style.top = (e.pageY + offsetY) + 'px';
+      hoverPreview.style.opacity = 1;
+    });
+
+    link.addEventListener('mouseleave', () => {
+      hoverPreview.style.opacity = 0;
+    });
+  });
+
+});
+</script>
+
+{{ end }}

@@ -1,0 +1,56 @@
+baseURL = "https://mazurkiewicz.work/"
+title = "Kuba Maria Mazurkiewicz"
+
+enableEmoji = true
+
+defaultContentLanguage = "pl"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+[languages.pl]
+languageName = "Polski"
+weight = 1
+contentDir = "content/pl"
+
+  [[languages.pl.menu.main]]
+  name = "Projektowanie"
+  pageRef  = "projektowanie"
+  weight = 1
+
+  [[languages.pl.menu.main]]
+  name = "Sztuka"
+  pageRef  = "sztuka"
+  weight = 2
+
+  [[languages.pl.menu.main]]
+  name = "Biogram"
+  pageRef  = "Biogram"
+  weight = 3
+
+
+[languages.en]
+languageName = "English"
+weight = 2
+contentDir = "content/en"
+
+  [[languages.en.menu.main]]
+  name = "Design"
+  pageRef  = "design"
+  weight = 1
+
+  [[languages.en.menu.main]]
+  name = "Art"
+  pageRef  = "art"
+  weight = 2
+
+  [[languages.en.menu.main]]
+  name = "Bio"
+  pageRef  = "bio"
+  weight = 3
+
+[resources]
+  src = 'assets/images/kuba.jpg'
+  title = 'Kuba Maria Mazurkiewicz'
+  [resources.params]
+    alt = 'Portret Kuby Marii Mazurkiewicza'

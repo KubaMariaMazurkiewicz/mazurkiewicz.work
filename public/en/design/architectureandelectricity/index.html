@@ -1,0 +1,270 @@
+<!doctype html>
+
+  <html lang="en">
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KMM: Architecture and Electricity</title>
+
+    
+<meta name="description" content="Design of the Filip Burno’s book">
+<meta property="og:title" content="Architecture and Electricity">
+<meta property="og:description" content="Design of the Filip Burno’s book">
+    
+<meta property="og:url" content="http://localhost:1313/en/design/architectureandelectricity/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+    
+    
+<meta name="keywords" content="design, art">
+<meta name="author" content="Kuba Maria Mazurkiewicz" >
+<meta name="robots" content="index, follow" >
+<link rel="canonical" href="http://localhost:1313/en/design/architectureandelectricity/">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+        
+  
+  
+    
+      <link rel="stylesheet" href="/css/main.css">
+    
+  
+
+    
+</head>
+
+<body class="m-5 mt-4 bg-white text-gray-900 dark:bg-stone-900 dark:text-gray-300">
+
+<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex flex-col sm:flex-row items-center justify-between">
+  
+  <div class="group z-80">
+    
+    <a href="/en/" class="relative inline-block">
+      <div class="flex space-x-2.5 items-center">
+        <div class="-rotate-5 group-hover:rotate-0 transition-transform duration-200">Kuba</div>
+        <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
+        <div class="-rotate-2 group-hover:rotate-0 transition-transform duration-200">Mazurkiewicz</div>
+      </div>
+      <span class="absolute left-0 bottom-[3px] w-full h-[2px] xl:h-[3px] bg-stone-900 dark:bg-gray-300 opacity-0 transition-opacity delay-200 group-hover:opacity-100"></span>
+    </a>
+  </div>
+
+  <div class="group z-99999 mt-3 sm:mt-0">
+  
+  <button id="menu-toggle"
+          class="lg:hidden uppercase tracking-tighter font-medium focus:outline-none relative
+                 after:content-[''] after:absolute after:left-0 after:-bottom-0 after:w-full after:h-[2px] after: dark:bg-stone-900 after:dark:bg-gray-300 after:opacity-0 hover:after:opacity-100 after:transition-opacity after:duration-0 z-50 leading-none cursor-pointer">
+    MENU
+  </button>
+
+  
+  <ul id="menu"
+      class="fixed inset-0 flex flex-col items-center justify-center 
+             bg-white text-center opacity-0 invisible transition-all duration-100 ease-in-out
+             lg:static lg:flex-row lg:space-y-0 lg:space-x-5 lg:bg-transparent lg:opacity-100 lg:visible dark:bg-stone-900">
+        <li><a href="/en/design/" class="underline" style="text-underline-offset: 3px">Design</a></li>
+        <li><a href="/en/art/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Art</a></li>
+        <li><a href="/en/bio/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Bio</a></li>
+
+    <li>
+      
+        <a href="/pl/projektowanie/architekturaielektrycznosc/" hreflang="pl" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Polski</a>
+      
+    </li>
+  </ul>
+</div>
+</nav>
+
+
+
+<script>
+(function() {
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('menu');
+  const lang = "en";
+  let open = false;
+
+  toggle.addEventListener('click', () => {
+    open = !open;
+
+    if (open) {
+      
+      menu.classList.remove('opacity-0', 'invisible');
+      menu.classList.add('opacity-100', 'visible');
+      toggle.textContent = lang === "pl" ? "ZAMKNIJ" : "CLOSE";
+      document.body.classList.add('overflow-hidden'); 
+    } else {
+      
+      menu.classList.add('opacity-0', 'invisible');
+      menu.classList.remove('opacity-100', 'visible');
+      toggle.textContent = 'MENU';
+      document.body.classList.remove('overflow-hidden');
+    }
+  });
+})();
+</script>
+
+
+<section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
+    <h6>I design 🪄 and create 👷‍♂️ art:</h6>
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>00 48 669 269 930</h6>
+</section>
+
+
+  
+  <section id="single" class="m-auto lg:max-w-8/10 mb-20">
+    <h1 class="text-8xl text-center mb-5">Architecture and Electricity</h1>
+    <h2 class="text-center mb-20">2025</h2>
+    
+    <div id="column">
+        <p>Filip Burno’s book <em>Architektura i elektryczność. 1880–1940. Konstruowanie, doświadczanie, reprezentacja</em> [Architecture and Electricity: 1880–1940: Constructing, Experiencing, Representation] was published by the Academy of Fine Arts in Warsaw in 2025. It is a richly illustrated study of the use of electrical energy and artificial lighting in construction.</p>
+<p><div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_03.webp"
+  alt="Full book cover spread with back cover, spine, and front cover visible"
+  loading="lazy"
+  decoding="async"
+/>
+</div></p>
+<p>My goal was to create a graphic design for the publication that would harmonise with the presented iconography. Monochromatic archival visuals determined the black-and-white, minimalist character of the book. Yellow appears only on the cover, referencing the glow of the illuminated glass façades and building interiors. The publication contains meticulously selected photographs, architectural drawings, diagrams, and propaganda materials.</p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_04.webp"
+  alt="Close-up of the binding type: softcover, perfect binding"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_05.webp"
+  alt="Close-up of the book interior with an illustration and caption"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_06.webp"
+  alt="Close-up of a text fragment"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_07.webp"
+  alt="Close-up of a text fragment with an illustration of the Edison Monument design"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<p>The publication has 212 pages in A5 format. I used the Pretty font by Jan Estrada-Osmycki (Tekio Foundry) in Regular, Italic, and Semibold styles. Its geometric forms correspond with the modernist architecture of the interwar period, which is the central theme of the author’s research.</p>
+<p>The rough paper inside and the uncoated cover also refer to the characteristic features of publications from the period.</p>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_08.webp"
+  alt="Book spread with text and illustrations"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_13.webp"
+  alt="Book spread with the title page of the first chapter"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_10.webp"
+  alt="Book spread with text and illustrations"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_11.webp"
+  alt="Book spread with text and illustrations"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+<div class="flex flex-col md:flex-row md:space-x-4">
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_12.webp"
+  alt="Book spread with text and illustrations"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+    <div class="one-image">
+      <div>
+<img
+  src="/images/architekturaielektrycznosc/architekturaielektrycznosc_09.webp"
+  alt="Book spread with the title page of the third chapter"
+  loading="lazy"
+  decoding="async"
+/>
+</div>
+    </div>
+</div>
+
+    </div>
+    
+    </section>
+
+
+
+
+
+  
+  
+  <footer class="mt-20">
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>00 48 669 269 930</h6>
+    <h6>22 Kazimierzowska Street, Warsaw, Poland</h6>
+    <h6><a href="https://www.instagram.com/kubamariamazurkiewicz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/kubamariamazurkiewicz/" target="_blank">Facebook</a></h6>
+  </footer>
+
+
+</body>
+</html>

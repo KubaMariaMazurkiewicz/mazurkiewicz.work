@@ -1,0 +1,19 @@
+<section id="bio">
+    <div class="flex flex-col md:flex-row mt-2 lg:mt-10">
+        <div class="md:basis-1/2 md:pr-20">
+                {{ $lang := .Site.Language.Lang }}
+                {{ $info := index site.Data.info $lang }}
+            <h1>{{ $info.hello }}</h1>
+            <p>{{ $info.bio }}</p>
+        </div>
+
+    <div class="lg:basis-1/2">
+        <img
+          src="/images/kmm1.webp"
+          alt=""
+          loading="lazy"
+          decoding="async"
+        />
+    </div>
+    </div>
+</section>

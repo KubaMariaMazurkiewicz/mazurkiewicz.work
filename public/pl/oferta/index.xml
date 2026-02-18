@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oferta on Kuba Maria Mazurkiewicz</title>
+    <link>http://localhost:1313/pl/oferta/</link>
+    <description>Recent content in Oferta on Kuba Maria Mazurkiewicz</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pl/oferta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wystawy plenerowe</title>
+      <link>http://localhost:1313/pl/oferta/wystawyplenerowe/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pl/oferta/wystawyplenerowe/</guid>
+      <description>&lt;p&gt;Przedstawiam tutaj pięć wybranych projektów wystaw plenerowych, które opracowałem w ostatnich latach. Ekspozycje różnią się założeniami związanymi z miejscem prezentacji, czasem trwania pokazu oraz mobilnością konstrukcji. Pierwsze trzy zostały zaprojektowane z możliwością rozstawienia w kilku kolejnych lokalizacjach. To uniwersalne systemy łatwe w transporcie i montażu. Pozostałe dwa mają charakter stały i zostały umieszczone w jednym, konkretnym miejscu. Zastosowany w ich przypadku materiał, konstrukcja i charakter języka wizualnego, odnoszą się ściśle do poruszanego tematu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

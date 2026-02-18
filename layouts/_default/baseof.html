@@ -1,0 +1,31 @@
+<!doctype html>
+{{ if eq .Lang "en" }}
+  <html lang="en">
+{{ else if eq .Lang "pl" }}
+  <html lang="pl">
+{{ end }}
+
+<head>
+    {{ partial "meta.html" . }}
+    {{ with (templates.Defer (dict "key" "global")) }}
+        {{ partial "css.html" . }}
+    {{ end }}
+</head>
+
+<body class="m-5 mt-4 bg-white text-gray-900 dark:bg-stone-900 dark:text-gray-300">
+
+{{ partial "nav.html" . }}
+{{ partial "info.html" . }}
+
+{{ if .IsHome }}
+    {{ partial "latestprojects.html" . }}
+
+{{ partial "bio.html" . }}
+
+{{ else }}
+  {{ block "main" . }}{{ end }}
+{{ end }}
+
+{{ partial "footer.html" . }}
+</body>
+</html>

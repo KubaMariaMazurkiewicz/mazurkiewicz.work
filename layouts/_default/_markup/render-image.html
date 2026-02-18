@@ -1,0 +1,11 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text -}}
+
+<div>
+<img
+  src="{{ .Destination | safeURL }}"
+  alt="{{ $alt }}"
+  loading="lazy"
+  decoding="async"
+/>
+</div>

@@ -1,0 +1,52 @@
+<section id="latestprojects">
+  {{ $lang := .Site.Language.Lang }}{{ $info := index site.Data.info $lang }}
+<h2 class="underline-offset-5 antialiased mb-2 sm:mb-6">
+  {{ $info.recentworks }}
+</h2>
+
+<div class="flex flex-col md:flex-row gap-3 mb-20">
+{{ $sections := slice "projektowanie" "sztuka" }}
+{{ if eq .Site.Language.Lang "en" }}
+  {{ $sections = slice "design" "art" }}
+{{ end }}
+
+{{ $posts := where site.RegularPages "Section" "in" $sections }}
+{{ $featured := where $posts "Params.featured" "eq" true }}
+
+{{ range $index, $post := first 5 $featured }}
+
+<article class="featured-post {{ if eq $index 4 }}hidden xl:block {{else if eq $index 3 }}hidden lg:block {{ end }}">
+  <a href="{{ .RelPermalink }}">
+  <img
+  src="{{ .Params.cover }}"
+  alt=""
+  loading="lazy"
+  decoding="async"
+/>
+</a>
+
+
+    <h6 class="uppercase mt-2 tracking-tight text-sm">{{ .Description }}</h6>
+    <h5 class="mt-1">{{ .Title }}</h5>
+  </a>
+</article>
+{{ end }}
+</div>
+
+  <div class="mb-20 lg:mb-30">
+    
+    <h2 class="m-auto text-center leading-10 lg:w-1/2 lg:leading-14">
+      {{ $info.more1 }}
+      {{ $section := cond (eq .Site.Language.Lang "pl") "projektowanie" "design" }}
+      {{ with site.GetPage "section" $section }}
+      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-3 pr-3 pt-1 pb-1 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>{{ end }}{{ $info.more3 }}
+      {{ $section := cond (eq .Site.Language.Lang "pl") "sztuka" "art" }}
+      {{ with site.GetPage "section" $section }}
+      <a href="{{ .RelPermalink }}" class="rounded-full border-2 border-black hover:bg-black dark:border-gray-300 hover:text-white pl-3 pr-3 pt-1 pb-1 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2 dark:hover:bg-gray-300 dark:hover:text-stone-950 cursor-pointer">{{ .Title }}</a>
+      {{ end }}
+    </h2>
+
+    <!-- You can see more design here, and if you are interested in my artistic publications, exhibitions and articles, check out the art section. -->
+  </div>
+<hr class="border-1">
+</section>

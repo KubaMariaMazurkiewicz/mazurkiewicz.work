@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <section id="single" class="m-auto lg:max-w-8/10 mb-20">
+    <h1 class="text-8xl text-center mb-5">{{ .Title }}</h1>
+    <h2 class="text-center mb-20">{{ .Params.year }}</h2>
+    
+    <div id="column">
+        {{ .Content }}
+    </div>
+    
+    </section>
+{{ end }}

@@ -1,0 +1,40 @@
+{{ define "main" }}
+<section id="column">
+    <div class="flex flex-col lg:flex-row">
+        <div class="ml-auto basis-1/2 xl:mr-40 lg:mr-20 md:mr-40">
+          {{ .Content }}
+        </div>
+
+        <div class="lg:basis-1/2 mt-10 lg:mt-0">
+          <img
+          src="{{ .Params.cover }}"
+          alt=""
+          loading="lazy"
+          decoding="async"
+          />
+        </div>
+
+    </section>
+    <section id="institutions" class="text-center xl:p-20">
+        <h2 class="mb-5 mt-5">{{ .Params.cooperation }}</h2>
+        <p>{{ .Params.institutions }}</p>
+    </section>
+<hr class="border-1">
+
+    <section id="bio-additionals">
+        <!-- {{ $folder := "" }}
+
+{{ if eq .Site.Language.Lang "pl" }}
+  {{ $folder = "biogram" }}
+{{ else if eq .Site.Language.Lang "en" }}
+  {{ $folder = "bio" }}
+{{ end }}
+
+{{ readFile (printf "content/%s/%s/snippet.md" .Site.Language.Lang $folder) | markdownify }} -->
+
+{{ with .Resources.GetMatch "snippet.md" }}
+  {{ .Content }}
+{{ end }}
+
+    </section>
+{{ end }}
