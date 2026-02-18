@@ -2,7 +2,7 @@
 translationKey: ruchytektoniczne
 date: 2022-11-18
 featured: false
-title: Ruchy tektoniczne
+title: Ruchy tektoniczne 
 slug: ruchytektoniczne
 cover: /images/ruchytektoniczne/ruchytektoniczne_01.webp
 description: Identyfikacja wizualna i aranżacja wystawy w Muzeum Sztuki w Łodzi
