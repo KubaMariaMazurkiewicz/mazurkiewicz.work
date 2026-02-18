@@ -6,9 +6,8 @@
     "hugo-bin": "^0.149.2",
     "tailwindcss": "^4.1.14"
   },
-  "scripts": {
-    "tailwind:build": "tailwindcss -i assets/css/input.css -o assets/css/output.css --minify",
-    "build": "npm run tailwind:build && hugo-bin",
-    "dev": "hugo server --disableFastRender"
-  }
+"scripts": {
+  "tailwind:build": "tailwindcss -i assets/css/input.css -o assets/css/output.css --minify",
+  "build": "npm run tailwind:build && npx hugo-bin"
+}
 }
