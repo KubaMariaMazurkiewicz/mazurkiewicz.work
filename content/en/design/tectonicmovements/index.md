@@ -83,8 +83,6 @@ The colour scheme of the section devoted to spirituality featured dark shades of
 
 Apart from works of art—paintings, drawings, sculptures, installations, and videos—archival materials and documents of social life were also presented. The processes and transformations of the transition period were analysed using diagrams and timelines. The infographic layer of the show allows complex interdependencies to be to presented visually.
 
-Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na wystawie zaprezentowane zostały również archiwalia i dokumenty życia społecznego. Procesy i przemiany okresu transformacji przeanalizowane zostały przy pomocy wykresów i osi czasu. Warstwa infograficzna ekspozycji pozwoliła na obrazowe przedstawienie złożonych zależności.
-
 {{<gallery>}}
 ![A gray wall with the "Deindustrialization" section. It features a bar graph, small paintings, and a monitor playing a film.](/images/ruchytektoniczne/ruchytektoniczne_27.webp)
 ![A dark wall densely filled with various works: graphics, photographs, and a drawing with the text "Meta-Nietzsche." A projector sits on a pedestal nearby.](/images/ruchytektoniczne/ruchytektoniczne_28.webp)
