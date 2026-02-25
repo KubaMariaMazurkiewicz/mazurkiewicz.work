@@ -81,7 +81,7 @@ Kolorystyka sekcji duchowej to ciemne szarości, żółcień i ziemiste barwy. T
 ![Mężczyzna pochyla się nad szklaną gablotą w sali o żółtych ścianach. W tle widoczne są kolorowe obrazy i tablica z osią czasu transformacji.](/images/ruchytektoniczne/ruchytektoniczne_26.webp)
 {{</gallery>}}
 
-Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na wystawie zaprezentowane zostały również archiwalia i dokumenty życia społecznego. Procesy i przemiany okresu transformacji przeanalizowane zostały przy pomocy wykresów i osi czasu. Warstwa infograficzna ekspozycji  pozwoliła na obrazowe przedstawienie złożonych zależności.
+Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na wystawie zaprezentowane zostały również archiwalia i dokumenty życia społecznego. Procesy i przemiany okresu transformacji przeanalizowane zostały przy pomocy wykresów i osi czasu. Warstwa infograficzna ekspozycji pozwoliła na obrazowe przedstawienie złożonych zależności.
 
 {{<gallery>}}
 ![Szara ściana z sekcją „Dezindustrializacja”. Widać na niej wykres słupkowy, małe obrazy (w tym portret robotnika) oraz monitor z wyświetlanym filmem.](/images/ruchytektoniczne/ruchytektoniczne_27.webp)
@@ -94,4 +94,4 @@ Oprócz dzieł sztuki: obrazów, rysunków, rzeźb, instalacji i prac wideo, na 
 {{</gallery>}}
 
 ![Widok sali z dużym obrazem „Liberalna ironista” (wielkie czarne litery na białym tle). Obok wisi płótno z tęczowym wulkanem, a przed nimi stoi biała koszulka na stojaku.](/images/ruchytektoniczne/ruchytektoniczne_31.webp)
-###### Zdjęcia HaWy, Jonasza Mazurkiewicza i Piotra Tomczyka 
+###### Zdjęcia HaWy, Jonasza Mazurkiewicza i Piotra Tomczyka

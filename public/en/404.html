@@ -1,27 +1,27 @@
 <!doctype html>
 
-  <html lang="pl">
+  <html lang="en">
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>KMM: Categories</title>
+<title>KMM: 404 Page not found</title>
 
     
 <meta name="description" content="">
-<meta property="og:title" content="Categories">
+<meta property="og:title" content="404 Page not found">
 <meta property="og:description" content="">
     
-<meta property="og:url" content="http://localhost:1313/pl/categories/">
+<meta property="og:url" content="http://localhost:1313/en/404.html">
 <meta property="og:type" content="website">
 <meta property="og:image" content="">
     
     
-<meta name="keywords" content="projektowanie, sztuka">
+<meta name="keywords" content="design, art">
 <meta name="author" content="Kuba Maria Mazurkiewicz" >
 <meta name="robots" content="index, follow" >
-<link rel="canonical" href="http://localhost:1313/pl/categories/">
+<link rel="canonical" href="http://localhost:1313/en/404.html">
 
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
@@ -46,7 +46,7 @@
   
   <div class="group z-80">
     
-    <a href="/pl/" class="relative inline-block">
+    <a href="/en/" class="relative inline-block">
       <div class="flex space-x-2.5 items-center">
         <div class="-rotate-5 group-hover:rotate-0 transition-transform duration-200">Kuba</div>
         <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
@@ -69,13 +69,13 @@
       class="fixed inset-0 flex flex-col items-center justify-center 
              bg-white text-center opacity-0 invisible transition-all duration-100 ease-in-out
              lg:static lg:flex-row lg:space-y-0 lg:space-x-5 lg:bg-transparent lg:opacity-100 lg:visible dark:bg-stone-900">
-        <li><a href="/pl/projektowanie/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Projektowanie</a></li>
-        <li><a href="/pl/sztuka/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Sztuka</a></li>
-        <li><a href="/pl/biogram/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Biogram</a></li>
+        <li><a href="/en/design/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Design</a></li>
+        <li><a href="/en/art/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Art</a></li>
+        <li><a href="/en/bio/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Bio</a></li>
 
     <li>
       
-        <a href="/en/categories/" hreflang="en" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">English</a>
+        <a href="/pl/404.html" hreflang="pl" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Polski</a>
       
     </li>
   </ul>
@@ -88,7 +88,7 @@
 (function() {
   const toggle = document.getElementById('menu-toggle');
   const menu = document.getElementById('menu');
-  const lang = "pl";
+  const lang = "en";
   let open = false;
 
   toggle.addEventListener('click', () => {
@@ -113,51 +113,20 @@
 
 
 <section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
-    <h6>Projektuję 🪄 i robię 👷‍♂️ sztukę:</h6>
+    <h6>I design 🪄 and create 👷‍♂️ art:</h6>
     <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
-    <h6>669 269 930</h6>
+    <h6>00 48 669 269 930</h6>
 </section>
 
 
   
-<img id="hoverPreview"
-     class="fixed pointer-events-none w-80 opacity-0 transition-opacity duration-150 z-50"
-     style="top:0; left:0;" />
-
-<ul class="text-2xl space-y-2 w-full">
-  
-</ul>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-
-  
-  if ('ontouchstart' in window || navigator.maxTouchPoints > 0) {
-    return;
-  }
-
-  const hoverPreview = document.getElementById('hoverPreview');
-  const offsetX = 10;
-  const offsetY = 10;
-
-  document.querySelectorAll('ul li a[data-img]').forEach(link => {
-    link.addEventListener('mousemove', e => {
-      const isRetina = window.devicePixelRatio > 1;
-      const imgSrc = isRetina && link.dataset.img2x ? link.dataset.img2x : link.dataset.img;
-      hoverPreview.src = imgSrc;
-      hoverPreview.style.left = (e.pageX + offsetX) + 'px';
-      hoverPreview.style.top = (e.pageY + offsetY) + 'px';
-      hoverPreview.style.opacity = 1;
-    });
-
-    link.addEventListener('mouseleave', () => {
-      hoverPreview.style.opacity = 0;
-    });
-  });
-
-});
-</script>
-
+  <h1>404 Not Found</h1>
+  <p>The page you requested cannot be found.</p>
+  <p>
+    <a href="/en/">
+      Return to the home page
+    </a>
+  </p>
 
 
 
@@ -167,8 +136,8 @@ document.addEventListener('DOMContentLoaded', () => {
   
   <footer class="mt-20">
     <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
-    <h6>669 269 930</h6>
-    <h6>ul. Kazimierzowska 22, Warszawa</h6>
+    <h6>00 48 669 269 930</h6>
+    <h6>22 Kazimierzowska Street, Warsaw, Poland</h6>
     <h6><a href="https://www.instagram.com/kubamariamazurkiewicz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/kubamariamazurkiewicz/" target="_blank">Facebook</a></h6>
   </footer>
 
