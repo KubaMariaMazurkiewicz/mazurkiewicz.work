@@ -1,5 +1,4 @@
 ---
-draft: false
 translationKey: ruchytektoniczne
 date: 2022-11-18
 featured: false
