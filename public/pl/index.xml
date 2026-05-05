@@ -93,6 +93,13 @@
       <description>&lt;p&gt;Wystawa &lt;em&gt;Fenomenalny. Zdzisław Beksiński&lt;/em&gt; trwała od 13 kwietnia do 24 sierpnia 2025 roku w Muzeum Narodowym we Wrocławiu. Opracowałem identyfikację wizualną i aranżację ekspozycji oraz projekt graficzny towarzyszącego jej albumu.&lt;/p&gt;&#xA;&lt;div class=&#34;flex flex-col md:flex-row md:space-x-4&#34;&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/fenomenalny/fenomenalny_01.webp&#34;&#xA;  alt=&#34;Plakat wystawy „Fenomenalny. Zdzisław Beksiński” wywieszony przed Pawilonem Czterech Kopuł we Wrocławiu.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/fenomenalny/fenomenalny_02.webp&#34;&#xA;  alt=&#34;Plakat wystawy „Fenomenalny. Zdzisław Beksiński” na słupie plakatowym na ulicy Wrocławia.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;one-image&#34;&gt;&#xA;      &lt;div&gt;&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/fenomenalny/fenomenalny_03.webp&#34;&#xA;  alt=&#34;Plakat wystawy „Fenomenalny. Zdzisław Beksiński” na słupie plakatowym na ulicy Wrocławia.&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;/&gt;&#xA;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Zdzisław Beksiński jest obecnie znany głównie jako malarz, jednak w latach 50. i 60. zajmował się fotografią. Aleksandra Szwedo, kuratorka wystawy, wybrała ponad sto pięćdziesiąt jego czarno-białych zdjęć, które charakteryzują się wyjątkowo precyzyjnymi kompozycjami.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Koleżanki i koledzy</title>
+      <link>http://localhost:1313/pl/projektowanie/kolezankiikoledzy/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pl/projektowanie/kolezankiikoledzy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Don’t hate the player, hate the game</title>
       <link>http://localhost:1313/pl/projektowanie/donthate/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>

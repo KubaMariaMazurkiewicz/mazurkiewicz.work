@@ -2,11 +2,11 @@
 translationKey: donthate
 date: 2024-11-08
 featured: false
-title: Don’t hate the player, hate the game
+title: Don’t Hate the Player, Hate the Game
 slug: donthate
 cover: /images/donthate/donthate_06.webp
 description: Visual identity, exhibition, and book design for the curated exhibitions of “Bielska Jesień”
-fulltitle: Don’t hate the player, hate the game
+fulltitle: Don’t Hate the Player, Hate the Game
 year: 2024
 elements: visual identity, exhibition design, book design
 institution: Galeria Bielska BWA
@@ -14,7 +14,7 @@ institution: Galeria Bielska BWA
 
 “Bielska jesień” [Bielsko Autumn] is the most important painting competition in Poland, held every two years. In the years between editions, a curated exhibition is organised.
 
-In 2024, the exhibition was titled _Don’t hate the player, hate the game_, curated by Janek Owczarek and Piotr Policht. The curators explored the relationship between painting and the art market, presenting examples of how artists navigate galleries, collectors, and their own creative needs. In the introductory text, they wrote:
+In 2024, the exhibition was titled _Don’t Hate the Player, Hate the Game_, curated by Janek Owczarek and Piotr Policht. The curators explored the relationship between painting and the art market, presenting examples of how artists navigate galleries, collectors, and their own creative needs. In the introductory text, they wrote:
 
 > Painting has been, is, and will continue to be a commodity. Good painting can be recognised by the fact that it is something more.
 

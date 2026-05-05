@@ -210,6 +210,19 @@
                 href="http://localhost:1313/en/design/asliceoftheworld/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/design/tectonicmovements/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/ruchytektoniczne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/tectonicmovements/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/art/samples-of-alternative-death-symbols/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
