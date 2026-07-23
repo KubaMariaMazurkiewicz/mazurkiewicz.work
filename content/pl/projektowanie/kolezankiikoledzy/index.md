@@ -1,6 +1,6 @@
 ---
 translationKey: kolezankiikoledzy
-draft: true;
+draft: true
 date: 2024-11-15
 featured: false
 title: Koleżanki i koledzy
