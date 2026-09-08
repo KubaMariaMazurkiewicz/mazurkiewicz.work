@@ -24,7 +24,7 @@
 
 ## Wybrane teksty
 
-- [_Porzucone place budowy okolic Baranowa. Wprowadzenie do teorii ruiny inwestycyjnej_](https://doi.org/10.52652/e.8.25.13), z Piotrem Puldzianem Płucienniczakiem, „Elementy. Sztuka i Dizajn”, nr 8, 2025
+- [_Porzucone place budowy okolic Baranowa. Wprowadzenie do teorii ruiny inwestycyjnej_](https://elementymag.art/porzucone-place-budowy-okolic-baranowa-wprowadzenie-do-teorii-ruiny-inwestycyjnej/), z Piotrem Puldzianem Płucienniczakiem, „Elementy. Sztuka i Dizajn”, nr 8, 2025
 - [_Hiperlokalne badania artystyczne: Baranów/Centralny Port Komunikacyjny_](https://doi.org/10.36854/widok/2025.42.3136), „Widok. Teorie i Praktyki Kultury Wizualnej”, nr 42, 2025
 - [_Projektowanie pogrzebu. Dizajn jako narzędzie pracy nad wyobraźnią społeczną_](https://doi.org/10.51196/srz.23.12), „Stan Rzeczy”, nr 2(23), 2023
 - [_Co mówi „Sekret małej gastronomii” Piotra Puldziana Płucienniczaka?_](https://magazynszum.pl/co-mowi-sekret-malej-gastronomii-piotra-puldziana-plucienniczaka/), „Szum”, 2023
