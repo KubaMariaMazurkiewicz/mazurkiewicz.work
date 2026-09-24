@@ -21,3 +21,6 @@ Bazując na modelu 3D wykonanym przez studio postprodukcyjne Fireplace, zaprojek
 _Nie ma duchów w mieszkaniu na Dobrej_ opowiada o czwórce wchodzącego w dorosłość rodzeństwa, które stara się budować niezależne drogi życiowe, nie tracąc przy tym łączących ich więzi. Plakat jest grą z tytułem – niby w mieszkaniu nie ma duchów, ale na pierwszym planie rysuje się dziwna sylwetka.
 
 Ustawiając bohatera tyłem nawiązuję do afiszy reklamujących horrory i choć film Emi Buchwald nie mieści się w tym gatunku, to jest w nim coś metafizycznego i głęboko niepokojącego.
+
+Plakat otrzymał nagrodę Polskiego Instytutu Sztuki Filmowej w kategorii Plakat filmowy. Uzasadnie kapituły:
+> Za plakat, który nie wyjaśnia, a podsyca ciekawość. Za mistrzowskie połączenie plastycznej wyrazistości, wysmakowanej typografii i tajemnicy.

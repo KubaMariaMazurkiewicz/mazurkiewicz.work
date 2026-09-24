@@ -20,3 +20,6 @@ Based on a 3D model created by the Fireplace post-production studio, I designed 
 _No Ghosts on Good Street_ tells the story of four siblings entering adulthood who are trying to build their own lives without losing the bonds that connect them. The poster plays with the title—seemingly “No Ghosts on Good Street”—but a strange silhouette looms in the foreground.
 
 By placing the protagonist with his back to the viewer, I am referring to horror movie posters, and although Emi Buchwald’s film does not belong to this genre, it has something metaphysical and deeply disturbing about it.
+
+The poster received an award from the Polish Film Institute in the film poster category. The jury’s statement:
+> For the poster that does not explain, but arouses curiosity. For a masterful combination of visual clarity, sophisticated typography, and mystery.
