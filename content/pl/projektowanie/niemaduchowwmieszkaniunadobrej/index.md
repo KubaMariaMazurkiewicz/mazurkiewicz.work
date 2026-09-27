@@ -22,5 +22,11 @@ _Nie ma duchów w mieszkaniu na Dobrej_ opowiada o czwórce wchodzącego w doros
 
 Ustawiając bohatera tyłem nawiązuję do afiszy reklamujących horrory i choć film Emi Buchwald nie mieści się w tym gatunku, to jest w nim coś metafizycznego i głęboko niepokojącego.
 
+{{< gallery >}}
+![Kuba Maria Mazurkiewicz odbiera nagrodę od członka kapituły. Na ściane za mężczyznami wyświetlany jest nagrodzony plakat.](/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_03.webp)
+![Kuba Maria Mazurkiewicz przemawia ze sceny po odebraniu nagrody. Za nim zespół muzyczny i nagrodzony plakat.](/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_04.webp)
+{{< /gallery >}}
+###### Zdjęcia Polskiego Instytutu Filmowego
+
 Plakat otrzymał nagrodę Polskiego Instytutu Sztuki Filmowej w kategorii Plakat filmowy. Uzasadnie kapituły:
 > Za plakat, który nie wyjaśnia, a podsyca ciekawość. Za mistrzowskie połączenie plastycznej wyrazistości, wysmakowanej typografii i tajemnicy.

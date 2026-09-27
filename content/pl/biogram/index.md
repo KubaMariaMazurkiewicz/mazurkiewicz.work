@@ -7,7 +7,7 @@ cover: /images/kmm2.webp
 slug: biogram
 description: Kuba Maria Mazurkiewicz – projektant i artysta.
 cooperation: Instytucje, z którymi współpracuję
-institutions: BWA Wrocław • BWA Zielona Góra • Dar Dobryszyc • Dom Spotkań z Historią • Fundacja Arton • Gdańska Galeria Miejska • Kordegarda. Galeria Narodowego Centrum Kultury • Muzeum Architektury we Wrocławiu • Muzeum Getta Warszawskiego • Muzeum Łazienki Królewskie • Muzeum Literatury im. Adama Mickiewicza • Muzeum Marii Skłodowskiej-Curie • Muzeum Narodowe we Wrocławiu • Muzeum Sztuki Nowoczesnej w Warszawie • Muzeum Sztuki w Łodzi • Muzeum Warszawy • Oficyna Peryferie • Państwowe Muzeum Etnograficzne w Warszawie • Polskie Wydawnictwo Muzyczne • Stowarzyszenie Historyków Sztuki • Studio Munka • Zachęta – Narodowa Galeria Sztuki • ZODIAK Warszawski Pawilon Architektury • Żydowski Instytut Historyczny
+institutions: BWA Wrocław • BWA Zielona Góra • Dar Dobryszyc • Dom Spotkań z Historią • Fundacja Arton • Gdańska Galeria Miejska • Instytut Wzornictwa Przemysłowego • Kordegarda. Galeria Narodowego Centrum Kultury • Muzeum Architektury we Wrocławiu • Muzeum Getta Warszawskiego • Muzeum Łazienki Królewskie • Muzeum Literatury im. Adama Mickiewicza • Muzeum Marii Skłodowskiej-Curie • Muzeum Narodowe we Wrocławiu • Muzeum Sztuki Nowoczesnej w Warszawie • Muzeum Sztuki w Łodzi • Muzeum Warszawy • Oficyna Peryferie • Państwowe Muzeum Etnograficzne w Warszawie • Polskie Wydawnictwo Muzyczne • Stowarzyszenie Historyków Sztuki • Studio Munka • Zachęta – Narodowa Galeria Sztuki • ZODIAK Warszawski Pawilon Architektury • Żydowski Instytut Historyczny
 hide_latestprojects: true
 ---
 

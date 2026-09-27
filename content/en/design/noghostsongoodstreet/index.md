@@ -21,5 +21,11 @@ _No Ghosts on Good Street_ tells the story of four siblings entering adulthood w
 
 By placing the protagonist with his back to the viewer, I am referring to horror movie posters, and although Emi Buchwald’s film does not belong to this genre, it has something metaphysical and deeply disturbing about it.
 
+{{< gallery >}}
+![Kuba Maria Mazurkiewicz receives the PISF award from a jury member. The award-winning poster is displayed on the wall behind the men.](/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_03.webp)
+![Kuba Maria Mazurkiewicz delivers a speech from the stage after receiving the award. Behind him are a band and the poster.](/images/niemaduchowwmieszkaniunadobrej/niemaduchowwmieszkaniunadobrej_04.webp)
+{{< /gallery >}}
+###### Photos Polish Film Institute
+
 The poster received an award from the Polish Film Institute in the film poster category. The jury’s statement:
 > For the poster that does not explain, but arouses curiosity. For a masterful combination of visual clarity, sophisticated typography, and mystery.

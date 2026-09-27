@@ -7,7 +7,7 @@ cover: /images/kmm2.webp
 slug: bio
 description: Kuba Maria Mazurkiewicz – designer and artist.
 cooperation: Institutions I work with
-institutions: Adam Mickiewicz Museum of Literature • Arton Foundation • BWA Wrocław • BWA Zielona Góra • Dar Dobryszyc • Gdansk City Gallery • History Meeting House • Jewish Historical Institute • Kordegarda. Gallery of the National Centre for Culture • Maria Skłodowska-Curie Museum • Munk Studio • Museum of Architecture in Wroclaw • Museum of Modern Art in Warsaw • Museum of Warsaw • Muzeum Sztuki in Łódź • National Museum in Wroclaw • Oficyna Peryferie • PWM Edition • State Ethnographic Museum in Warsaw • Stowarzyszenie Historyków Sztuki • The Royal Łazienki Museum in Warsaw • Warsaw Ghetto Museum • Zachęta – National Gallery of Art • ZODIAK Warsaw Pavilion of Architecture
+institutions: Adam Mickiewicz Museum of Literature • Arton Foundation • BWA Wrocław • BWA Zielona Góra • Dar Dobryszyc • Gdansk City Gallery • History Meeting House • Institute of Industrial Design • Jewish Historical Institute • Kordegarda. Gallery of the National Centre for Culture • Maria Skłodowska-Curie Museum • Munk Studio • Museum of Architecture in Wroclaw • Museum of Modern Art in Warsaw • Museum of Warsaw • Muzeum Sztuki in Łódź • National Museum in Wroclaw • Oficyna Peryferie • PWM Edition • State Ethnographic Museum in Warsaw • Stowarzyszenie Historyków Sztuki • The Royal Łazienki Museum in Warsaw • Warsaw Ghetto Museum • Zachęta – National Gallery of Art • ZODIAK Warsaw Pavilion of Architecture
 hide_latestprojects: true
 ---
 
