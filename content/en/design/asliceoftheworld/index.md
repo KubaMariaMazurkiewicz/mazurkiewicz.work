@@ -14,8 +14,6 @@ for: Museum of Warsaw
 
 The book, written by historian Błażej Brzostek and published by the Museum of Warsaw, serves as a guidebook that presents a concise history of Poland’s capital through selected objects from the Museum’s collection.
 
-#### The graphic design of the book received the Must Have quality mark during the Łódź Design Festival.
-
 ![Two books stacked on top of each other. On top is the yellow Polish version of “A Slice of the World,” and underneath is the gray English one.](/images/kawalekswiata/kawalekswiata_01.webp)
 ![Two versions of the cover for the book “A Slice of the World.” The yellow Polish variant, and the gray English one.](/images/kawalekswiata/kawalekswiata_03.webp)
 
@@ -36,3 +34,7 @@ Two language editions were released: a Polish version with a yellow background a
 ![Close-up of the spine of the book.](/images/kawalekswiata/kawalekswiata_05.webp)
 ![Close-up of the inner cover of the book. The embossed title is visible.](/images/kawalekswiata/kawalekswiata_06.webp)
 {{< /gallery >}}
+
+The graphic design of the book received the Must Have quality mark during the Łódź Design Festival.
+
+![Kuba Maria Mazurkiewicz shows the book and the award.](/images/kawalekswiata/kawalekswiata_12.webp)
