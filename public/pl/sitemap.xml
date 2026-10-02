@@ -190,6 +190,19 @@
                 href="http://localhost:1313/pl/projektowanie/fenomenalny/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pl/projektowanie/kolezankiikoledzy/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/kolezankiikoledzy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/kolezankiikoledzy/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pl/projektowanie/donthate/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <xhtml:link
