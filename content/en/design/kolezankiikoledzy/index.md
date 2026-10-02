@@ -43,10 +43,10 @@ The graphic design is based on three contrasting typefaces. Tuna by Floodfonts, 
 ![Spread with a portrait of Ivo Nikić wearing a scarf and his short bio](/images/kolezankiikoledzy/kolezankiikoledzy_08.webp)
 ![Spread with the index of people, art groups and bands](/images/kolezankiikoledzy/kolezankiikoledzy_06.webp)
 {{< /gallery >}}
-![Close-up of a text page with the running head “Jest rok 1993…” (It’s 1993…)](/images/kolezankiikoledzy/kolezankiikoledzy_14.webp)
 
 My goal was to create a wild and distinctive visual language emphasising the history of this unique and sometimes even dangerous place on the Warsaw map.
 
+![Close-up of a text page with the running head “Jest rok 1993…” (It’s 1993…)](/images/kolezankiikoledzy/kolezankiikoledzy_14.webp)
 {{< gallery >}}
 ![Close-up of a spread: large chapter-title letters and the start of the text](/images/kolezankiikoledzy/kolezankiikoledzy_15.webp)
 ![Close-up of the open book: a page title and part of the large display lettering](/images/kolezankiikoledzy/kolezankiikoledzy_13.webp)

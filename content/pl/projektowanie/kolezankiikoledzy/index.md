@@ -43,10 +43,11 @@ Projekt graficzny bazuje na trzech kontrastowych krojach pisma. Tuna autorstwa F
 ![Rozkładówka ze zdjęciami Karola Radziszewskiego i Janka Mioduszewskiego w pracowniach](/images/kolezankiikoledzy/kolezankiikoledzy_10.webp)
 ![Rozkładówka z rozdziału „Wydarzenia” ze zdjęciem z festiwalu Sąsiedzi dla Sąsiadów](/images/kolezankiikoledzy/kolezankiikoledzy_12.webp)
 {{< /gallery >}}
+
+Moim celem było stworzenie dzikiego i wyróżniającego się języka wizualnego, podkreślającego historię tego wyjątkowego, czasem nawet niebezpiecznego, miejsca na mapie Warszawy.
+
 ![Zbliżenie strony z tekstem i żywą paginą „Jest rok 1993…”](/images/kolezankiikoledzy/kolezankiikoledzy_14.webp)
 {{< gallery >}}
 ![Zbliżenie otwartej książki: tytuł strony i fragment liter w dużym kroju](/images/kolezankiikoledzy/kolezankiikoledzy_13.webp)
 ![Zbliżenie rozkładówki: duże litery tytułu rozdziału i początek tekstu](/images/kolezankiikoledzy/kolezankiikoledzy_15.webp)
 {{< /gallery >}}
-
-Moim celem było stworzenie dzikiego i wyróżniającego się języka wizualnego, podkreślającego historię tego wyjątkowego, czasem nawet niebezpiecznego, miejsca na mapie Warszawy.
