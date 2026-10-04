@@ -13,7 +13,7 @@ elements: projekt książki
 institution: Muzeum Sztuki Nowoczesnej w Warszawie
 ---
 
-Książka Anny Walewskiej o kamienicy przy ulicy Inżynierskiej 3 na warszawskiej Pradze. Przedstawia gęstą historię silnie zróżnicowanej społeczności skupionej wokół tytułowego adresu: awangardowych artystów i rzemieślników, zwykłych mieszkańców i rzezimieszków. Książka dotyczy lat 90. XX i początku XXI wieku. Na blisko czterystu stronach zebrane są dziesiątki archiwalnych fotografii, kilka wywiadów i osi czasu. Została wydana w 2024 roku przez Muzeum Sztuki Nowoczesnej w Warszawie.
+W swojej książce Anna Walewska opowiada o kamienicy przy ulicy Inżynierskiej 3 na warszawskiej Pradze. Przedstawia gęstą historię silnie zróżnicowanej społeczności skupionej wokół tytułowego adresu: awangardowych artystów i rzemieślników, zwykłych mieszkańców i rzezimieszków. Autorka koncentruje się na latach 90. XX i początku XXI wieku. Na blisko czterystu stronach zebrane zostały dziesiątki archiwalnych fotografii, kilka wywiadów i osi czasu. Publikację wydało w 2024 roku Muzeum Sztuki Nowoczesnej w Warszawie.
 
 ![Rozłożona okładka książki: żółta czwarta strona okładki z tekstem, grzbiet i przód](/images/kolezankiikoledzy/kolezankiikoledzy_02.webp)
 ###### Na okładce fotografia Szymona Rogińskiego
