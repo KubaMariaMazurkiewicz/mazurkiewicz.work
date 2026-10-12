@@ -1,6 +1,6 @@
 ---
 translationKey: tyija
-draft: true
+draft: false
 date: 2024-09-27
 featured: false
 title: Ty i Ja
