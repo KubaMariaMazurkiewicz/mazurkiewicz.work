@@ -1,0 +1,171 @@
+{{- /*
+  Bookshelf: spines from data/books.yaml, drawn to scale and shuffled on every load.
+  Usage:   {{< bookshelf >}}
+  Options: mm="0.32vw"  – size of 1 mm on screen (default scales with the window)
+           max="1.6px"  – largest size of 1 mm (default 1.6px)
+           min="0.9px"  – smallest size of 1 mm (default 0.9px)
+           gap="2"      – gap between spines in mm (default 0)
+           lean="0.2"   – share of books that lean on a neighbour (default 0.2, 0 = none)
+           angle="12"   – largest lean angle in degrees (default 12)
+*/ -}}
+{{- $books := site.Data.books | default slice -}}
+{{- $id := printf "bookshelf-%d" .Ordinal -}}
+{{- $mm := printf "clamp(%s, %s, %s)" (.Get "min" | default "0.9px") (.Get "mm" | default "0.32vw") (.Get "max" | default "1.6px") -}}
+<div class="bookshelf" id="{{ $id }}" style="--mm: {{ $mm | safeCSS }}; --gap: {{ .Get "gap" | default "0" }};" data-lean="{{ .Get "lean" | default "0.2" }}" data-angle="{{ .Get "angle" | default "12" }}">
+  {{- range $books }}
+  {{- $url := "" }}
+  {{- with .url }}{{ with site.GetPage . }}{{ $url = .RelPermalink }}{{ else }}{{ $url = . }}{{ end }}{{ end }}
+  {{- if not (os.FileExists (printf "static%s" .image)) }}{{ warnf "bookshelf: image not found for %q: static%s (check data/books.yaml)" .title .image }}{{ end }}
+  {{- $style := printf "--w: %v; --h: %v;" .width .height | safeCSS }}
+  {{- if $url }}
+  <a href="{{ $url }}" class="spine" title="{{ .title }}" style="{{ $style }}"><img src="{{ .image }}" alt="{{ .title }}" loading="lazy" decoding="async"></a>
+  {{- else }}
+  <div class="spine" title="{{ .title }}" style="{{ $style }}"><img src="{{ .image }}" alt="{{ .title }}" loading="lazy" decoding="async"></div>
+  {{- end }}
+  {{- end }}
+</div>
+
+<style>
+  .bookshelf {
+    display: flex; flex-wrap: wrap; align-items: flex-end;
+    column-gap: calc(var(--gap) * var(--mm)); row-gap: 0;
+    margin: 2rem 0;
+  }
+  .bookshelf .spine {
+    display: block; flex: none;
+    width: calc(var(--w) * var(--mm));
+    height: calc(var(--h) * var(--mm));
+    transform: rotate(var(--rot, 0deg));
+    transition: transform .2s ease;
+  }
+  .bookshelf a.spine:hover { transform: translateY(calc(-8 * var(--mm))) rotate(var(--rot, 0deg)); }
+  .bookshelf .spine img {
+    display: block; width: 100%; height: 100%; margin: 0;
+    object-fit: fill;
+  }
+  /* shelves are built by the script below, one per row */
+  .bookshelf.is-shelved { display: block; }
+  .bookshelf .shelf {
+    display: flex; align-items: flex-end;
+    column-gap: calc(var(--gap) * var(--mm));
+    border-bottom: 3px solid currentColor;
+    margin-bottom: 2.5rem;
+  }
+</style>
+
+<script>
+(function () {
+  var shelf = document.getElementById("{{ $id }}");
+  if (!shelf) return;
+  var spines = Array.prototype.slice.call(shelf.querySelectorAll(".spine"));
+  if (!spines.length) return;
+  var leanShare = parseFloat(shelf.dataset.lean) || 0;
+  var maxAngle = parseFloat(shelf.dataset.angle) || 12;
+
+  // shuffle (Fisher–Yates), new order on every load
+  for (var i = spines.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = spines[i]; spines[i] = spines[j]; spines[j] = t;
+  }
+
+  // some books want to lean: direction and angle are picked once per load
+  spines.forEach(function (s) {
+    s._want = null;
+    if (Math.random() < leanShare) {
+      s._want = {
+        dir: Math.random() < 0.5 ? -1 : 1,                       // -1 left, 1 right
+        rad: (Math.max(3, maxAngle * 0.35) + Math.random() * maxAngle * 0.65) * Math.PI / 180
+      };
+    }
+  });
+
+  function clearLean(s) {
+    s._lean = null;
+    s.style.removeProperty("--rot");
+    s.style.transformOrigin = "";
+    s.style.marginLeft = "";
+    s.style.marginRight = "";
+  }
+
+  // a leaning book pivots on its bottom corner; it needs extra room = h·sin(a)
+  function applyLean(s) {
+    var l = s._lean, w = s._w, h = s._h;
+    var extra = h * Math.sin(l.rad), tuck = w - w * Math.cos(l.rad);
+    s.style.setProperty("--rot", (l.dir * l.rad * 180 / Math.PI).toFixed(2) + "deg");
+    if (l.dir > 0) {               // top towards the right, rests on bottom-right corner
+      s.style.transformOrigin = "100% 100%";
+      s.style.marginLeft = (-tuck) + "px";
+      s.style.marginRight = extra + "px";
+    } else {                       // top towards the left, rests on bottom-left corner
+      s.style.transformOrigin = "0% 100%";
+      s.style.marginLeft = extra + "px";
+      s.style.marginRight = (-tuck) + "px";
+    }
+  }
+
+  function footprint(s, lean) {
+    if (!lean) return s._w;
+    return s._w * Math.cos(lean.rad) + s._h * Math.sin(lean.rad);
+  }
+
+  // put spines on shelves that fit the current width
+  function layout() {
+    shelf.classList.remove("is-shelved");
+    shelf.innerHTML = "";
+    spines.forEach(function (s) { clearLean(s); shelf.appendChild(s); });
+    spines.forEach(function (s) {
+      s._w = s.getBoundingClientRect().width;
+      s._h = s.getBoundingClientRect().height;
+    });
+    var max = shelf.clientWidth;
+    var gap = parseFloat(getComputedStyle(shelf).columnGap) || 0;
+
+    // fill rows, reserving room for the leans the books want
+    var rows = [], row = [], used = 0;
+    spines.forEach(function (s) {
+      var w = footprint(s, s._want);
+      var need = row.length ? used + gap + w : w;
+      if (row.length && need > max) { rows.push(row); row = []; need = w; }
+      row.push(s); used = need;
+    });
+    if (row.length) rows.push(row);
+
+    // a book may lean only on an upright neighbour that is tall enough to hold it
+    rows.forEach(function (r) {
+      r.forEach(function (s, i) {
+        var want = s._want;
+        if (!want) return;
+        var n = r[i + want.dir];
+        if (!n || n._lean || n._support === -want.dir) return;
+        if (want.dir > 0 && n._want) return;               // neighbour on the right must stay upright
+        if (n._h < s._h * Math.cos(want.rad)) return;      // too short to reach the leaning top
+        s._lean = want;
+        n._support = want.dir;
+      });
+      r.forEach(function (s) { s._support = 0; });
+      // a book that leans left must not be leant on from its left side
+      r.forEach(function (s, i) {
+        if (s._lean && s._lean.dir < 0 && r[i - 1] && r[i - 1]._lean) s._lean = null;
+      });
+    });
+
+    shelf.innerHTML = "";
+    rows.forEach(function (r) {
+      var div = document.createElement("div");
+      div.className = "shelf";
+      r.forEach(function (s) { if (s._lean) applyLean(s); div.appendChild(s); });
+      shelf.appendChild(div);
+    });
+    shelf.classList.add("is-shelved");
+  }
+
+  layout();
+  var last = shelf.clientWidth, timer;
+  window.addEventListener("resize", function () {
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      if (shelf.clientWidth !== last) { last = shelf.clientWidth; layout(); }
+    }, 150);
+  });
+})();
+</script>

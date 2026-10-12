@@ -210,6 +210,19 @@
                 href="http://localhost:1313/en/design/donthate/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/design/tyija/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/tyija/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/tyija/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/design/asliceoftheworld/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <xhtml:link

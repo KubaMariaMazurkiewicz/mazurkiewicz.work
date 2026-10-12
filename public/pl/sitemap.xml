@@ -2,6 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/pl/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pl/oferta/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pl/oferta/projektowanieksiazek/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +32,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pl/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://localhost:1313/pl/"
                 />
   </url><url>
     <loc>http://localhost:1313/pl/projektowanie/</loc>
@@ -40,9 +46,6 @@
                 hreflang="pl"
                 href="http://localhost:1313/pl/projektowanie/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/pl/oferta/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pl/oferta/wystawyplenerowe/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
@@ -214,6 +217,19 @@
                 rel="alternate"
                 hreflang="pl"
                 href="http://localhost:1313/pl/projektowanie/donthate/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pl/projektowanie/tyija/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/tyija/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/tyija/"
                 />
   </url><url>
     <loc>http://localhost:1313/pl/projektowanie/kawalekswiata/</loc>

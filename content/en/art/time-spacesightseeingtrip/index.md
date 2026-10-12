@@ -20,7 +20,7 @@ The publication contains a collection of historical materials, stories, poems, s
 ![“Zeszyt krajoznawczy nr 3” [Regional Explorations Notebook No. 3] and a fragment of Józef Chełmoński’s painting “Babie lato” [Indian Summer], in which a woman in a white dress looks up at the sky and catches a spider’s web.](/images/czasoprzestrzennapodrozkrajoznawcza/czasoprzestrzennapodrozkrajoznawcza_03.webp)
 ![Front and back covers of the publication. The inscription “Zeszyt krajoznawczy nr 3” [Regional Explorations Notebook No. 3] on the front and the list of the authors on the back; underneath, a fragment of Józef Chełmoński’s painting “Babie lato” [Indian Summer], in which a woman in a white dress looks up at the sky and catches a spider web. In the background of the image, a black dog sits with its back turned.](/images/czasoprzestrzennapodrozkrajoznawcza/czasoprzestrzennapodrozkrajoznawcza_02.webp)
 {{< /gallery >}}
-###### The cover features Józef Chełmoński’s painting _Babie lato_ [Indian Summer] from 1875. The painter was associated with the villages of Kuklówka and Radziejowice, located in vicinity of Baranów.
+###### The cover features Józef Chełmoński’s painting _Babie lato_ [Indian Summer] from 1875. The painter was associated with the villages of Kuklówka and Radziejowice, located in the vicinity of Baranów.
 
 ![Close-up of a comic printed in green. In the foreground, cartoon portraits of the authors of the publication.](/images/czasoprzestrzennapodrozkrajoznawcza/czasoprzestrzennapodrozkrajoznawcza_06.webp)
 

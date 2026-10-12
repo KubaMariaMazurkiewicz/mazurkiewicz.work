@@ -1,0 +1,4 @@
+{{- $src := .Get "src" -}}
+{{- with .Page.Resources.Get $src }}{{ $src = .RelPermalink }}{{ end -}}
+<video src="{{ $src }}" playsinline preload="metadata"{{ with .Get "poster" }} poster="{{ . }}"{{ end }}{{ if .Get "autoplay" }} autoplay muted loop{{ else }} controls{{ end }}{{ with .Get "alt" }} aria-label="{{ . }}"{{ end }} style="width:100%;height:auto;display:block"></video>
+{{- /* single line on purpose, so it can be nested inside the gallery shortcode */ -}}

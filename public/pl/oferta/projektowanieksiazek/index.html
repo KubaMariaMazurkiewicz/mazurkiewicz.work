@@ -1,0 +1,312 @@
+<!doctype html>
+
+  <html lang="pl">
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KMM: Projektowanie książek</title>
+
+    
+<meta name="description" content="Jak projektuję książki">
+<meta property="og:title" content="Projektowanie książek">
+<meta property="og:description" content="Jak projektuję książki">
+    
+<meta property="og:url" content="http://localhost:1313/pl/oferta/projektowanieksiazek/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+    
+    
+<meta name="keywords" content="projektowanie, sztuka">
+<meta name="author" content="Kuba Maria Mazurkiewicz" >
+<meta name="robots" content="index, follow" >
+<link rel="canonical" href="http://localhost:1313/pl/oferta/projektowanieksiazek/">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+        
+  
+  
+    
+      <link rel="stylesheet" href="/css/main.css">
+    
+  
+
+    
+</head>
+
+<body class="m-5 mt-4 bg-white text-gray-900 dark:bg-stone-900 dark:text-gray-300">
+
+<nav class="relative text-2xl xl:text-3xl 2xl:text-4xl uppercase tracking-tighter flex flex-col sm:flex-row items-center justify-between">
+  
+  <div class="group z-80">
+    
+    <a href="/pl/" class="relative inline-block">
+      <div class="flex space-x-2.5 items-center">
+        <div class="-rotate-5 group-hover:rotate-0 transition-transform duration-200">Kuba</div>
+        <div class="rotate-7 group-hover:rotate-0 transition-transform duration-200">Maria</div>
+        <div class="-rotate-2 group-hover:rotate-0 transition-transform duration-200">Mazurkiewicz</div>
+      </div>
+      <span class="absolute left-0 bottom-0.75 w-full h-0.5 xl:h-0.75 bg-stone-900 dark:bg-gray-300 opacity-0 transition-opacity delay-200 group-hover:opacity-100"></span>
+    </a>
+  </div>
+
+  <div class="group z-99999 mt-3 sm:mt-0">
+  
+  <button id="menu-toggle"
+          class="lg:hidden uppercase tracking-tighter font-medium focus:outline-none relative
+                 after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-full after:h-0.5 after: dark:bg-stone-900 after:dark:bg-gray-300 after:opacity-0 hover:after:opacity-100 after:transition-opacity after:duration-0 z-50 leading-none cursor-pointer">
+    MENU
+  </button>
+
+  
+  <ul id="menu"
+      class="fixed inset-0 flex flex-col items-center justify-center 
+             bg-white text-center opacity-0 invisible transition-all duration-100 ease-in-out
+             lg:static lg:flex-row lg:space-y-0 lg:space-x-5 lg:bg-transparent lg:opacity-100 lg:visible dark:bg-stone-900">
+        <li><a href="/pl/projektowanie/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Projektowanie</a></li>
+        <li><a href="/pl/sztuka/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Sztuka</a></li>
+        <li><a href="/pl/biogram/" class="hover:underline underline-offset-3 text-decoration-thickness:2px;">Biogram</a></li>
+
+    <li>
+      
+    </li>
+  </ul>
+</div>
+</nav>
+
+
+
+<script>
+(function() {
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('menu');
+  const lang = "pl";
+  let open = false;
+
+  toggle.addEventListener('click', () => {
+    open = !open;
+
+    if (open) {
+      
+      menu.classList.remove('opacity-0', 'invisible');
+      menu.classList.add('opacity-100', 'visible');
+      toggle.textContent = lang === "pl" ? "ZAMKNIJ" : "CLOSE";
+      document.body.classList.add('overflow-hidden'); 
+    } else {
+      
+      menu.classList.add('opacity-0', 'invisible');
+      menu.classList.remove('opacity-100', 'visible');
+      toggle.textContent = 'MENU';
+      document.body.classList.remove('overflow-hidden');
+    }
+  });
+})();
+</script>
+
+
+<section id="info" class="text-center sm:text-left mt-5 sm:mt-2 mb-15 sm:mb-20">
+    <h6>Projektuję 🪄 i robię 👷‍♂️ sztukę:</h6>
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>669 269 930</h6>
+</section>
+
+
+  
+  <section id="single" class="m-auto lg:max-w-8/10 mb-20">
+    <h1 class="text-8xl text-center mb-5">Projektowanie książek</h1>
+    <h2 class="text-center mb-20"></h2>
+    
+    <div id="column">
+        <div class="bookshelf" id="bookshelf-0" style="--mm: clamp(0.9px, 0.32vw, 1.6px); --gap: 0;" data-lean="0.2" data-angle="12">
+  <div class="spine" title="Ty i Ja" style="--w: 23; --h: 320;"><img src="/images/oferta/ksiazki/tyija_spin.webp" alt="Ty i Ja" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 2 222" style="--w: 12; --h: 210;"><img src="/images/ksiazki/placeholder/spine_02.png" alt="Książka 2 222" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 3" style="--w: 18; --h: 240;"><img src="/images/ksiazki/placeholder/spine_03.png" alt="Książka 3" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 4" style="--w: 10; --h: 170;"><img src="/images/ksiazki/placeholder/spine_04.png" alt="Książka 4" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 5" style="--w: 22; --h: 280;"><img src="/images/ksiazki/placeholder/spine_05.png" alt="Książka 5" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 6" style="--w: 15; --h: 240;"><img src="/images/ksiazki/placeholder/spine_06.png" alt="Książka 6" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 7" style="--w: 6; --h: 210;"><img src="/images/ksiazki/placeholder/spine_07.png" alt="Książka 7" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 8" style="--w: 30; --h: 297;"><img src="/images/ksiazki/placeholder/spine_08.png" alt="Książka 8" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 9" style="--w: 14; --h: 230;"><img src="/images/ksiazki/placeholder/spine_09.png" alt="Książka 9" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 10" style="--w: 9; --h: 190;"><img src="/images/ksiazki/placeholder/spine_10.png" alt="Książka 10" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 11" style="--w: 25; --h: 250;"><img src="/images/ksiazki/placeholder/spine_11.png" alt="Książka 11" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 12" style="--w: 12; --h: 320;"><img src="/images/ksiazki/placeholder/spine_12.png" alt="Książka 12" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 13" style="--w: 16; --h: 210;"><img src="/images/ksiazki/placeholder/spine_13.png" alt="Książka 13" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 14" style="--w: 20; --h: 240;"><img src="/images/ksiazki/placeholder/spine_14.png" alt="Książka 14" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 15" style="--w: 7; --h: 180;"><img src="/images/ksiazki/placeholder/spine_15.png" alt="Książka 15" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 16" style="--w: 11; --h: 297;"><img src="/images/ksiazki/placeholder/spine_16.png" alt="Książka 16" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 17" style="--w: 35; --h: 280;"><img src="/images/ksiazki/placeholder/spine_17.png" alt="Książka 17" loading="lazy" decoding="async"></div>
+  <div class="spine" title="Książka 18" style="--w: 13; --h: 220;"><img src="/images/ksiazki/placeholder/spine_18.png" alt="Książka 18" loading="lazy" decoding="async"></div>
+</div>
+
+<style>
+  .bookshelf {
+    display: flex; flex-wrap: wrap; align-items: flex-end;
+    column-gap: calc(var(--gap) * var(--mm)); row-gap: 0;
+    margin: 2rem 0;
+  }
+  .bookshelf .spine {
+    display: block; flex: none;
+    width: calc(var(--w) * var(--mm));
+    height: calc(var(--h) * var(--mm));
+    transform: rotate(var(--rot, 0deg));
+    transition: transform .2s ease;
+  }
+  .bookshelf a.spine:hover { transform: translateY(calc(-8 * var(--mm))) rotate(var(--rot, 0deg)); }
+  .bookshelf .spine img {
+    display: block; width: 100%; height: 100%; margin: 0;
+    object-fit: fill;
+  }
+   
+  .bookshelf.is-shelved { display: block; }
+  .bookshelf .shelf {
+    display: flex; align-items: flex-end;
+    column-gap: calc(var(--gap) * var(--mm));
+    border-bottom: 3px solid currentColor;
+    margin-bottom: 2.5rem;
+  }
+</style>
+
+<script>
+(function () {
+  var shelf = document.getElementById("bookshelf-0");
+  if (!shelf) return;
+  var spines = Array.prototype.slice.call(shelf.querySelectorAll(".spine"));
+  if (!spines.length) return;
+  var leanShare = parseFloat(shelf.dataset.lean) || 0;
+  var maxAngle = parseFloat(shelf.dataset.angle) || 12;
+
+  
+  for (var i = spines.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = spines[i]; spines[i] = spines[j]; spines[j] = t;
+  }
+
+  
+  spines.forEach(function (s) {
+    s._want = null;
+    if (Math.random() < leanShare) {
+      s._want = {
+        dir: Math.random() < 0.5 ? -1 : 1,                       
+        rad: (Math.max(3, maxAngle * 0.35) + Math.random() * maxAngle * 0.65) * Math.PI / 180
+      };
+    }
+  });
+
+  function clearLean(s) {
+    s._lean = null;
+    s.style.removeProperty("--rot");
+    s.style.transformOrigin = "";
+    s.style.marginLeft = "";
+    s.style.marginRight = "";
+  }
+
+  
+  function applyLean(s) {
+    var l = s._lean, w = s._w, h = s._h;
+    var extra = h * Math.sin(l.rad), tuck = w - w * Math.cos(l.rad);
+    s.style.setProperty("--rot", (l.dir * l.rad * 180 / Math.PI).toFixed(2) + "deg");
+    if (l.dir > 0) {               
+      s.style.transformOrigin = "100% 100%";
+      s.style.marginLeft = (-tuck) + "px";
+      s.style.marginRight = extra + "px";
+    } else {                       
+      s.style.transformOrigin = "0% 100%";
+      s.style.marginLeft = extra + "px";
+      s.style.marginRight = (-tuck) + "px";
+    }
+  }
+
+  function footprint(s, lean) {
+    if (!lean) return s._w;
+    return s._w * Math.cos(lean.rad) + s._h * Math.sin(lean.rad);
+  }
+
+  
+  function layout() {
+    shelf.classList.remove("is-shelved");
+    shelf.innerHTML = "";
+    spines.forEach(function (s) { clearLean(s); shelf.appendChild(s); });
+    spines.forEach(function (s) {
+      s._w = s.getBoundingClientRect().width;
+      s._h = s.getBoundingClientRect().height;
+    });
+    var max = shelf.clientWidth;
+    var gap = parseFloat(getComputedStyle(shelf).columnGap) || 0;
+
+    
+    var rows = [], row = [], used = 0;
+    spines.forEach(function (s) {
+      var w = footprint(s, s._want);
+      var need = row.length ? used + gap + w : w;
+      if (row.length && need > max) { rows.push(row); row = []; need = w; }
+      row.push(s); used = need;
+    });
+    if (row.length) rows.push(row);
+
+    
+    rows.forEach(function (r) {
+      r.forEach(function (s, i) {
+        var want = s._want;
+        if (!want) return;
+        var n = r[i + want.dir];
+        if (!n || n._lean || n._support === -want.dir) return;
+        if (want.dir > 0 && n._want) return;               
+        if (n._h < s._h * Math.cos(want.rad)) return;      
+        s._lean = want;
+        n._support = want.dir;
+      });
+      r.forEach(function (s) { s._support = 0; });
+      
+      r.forEach(function (s, i) {
+        if (s._lean && s._lean.dir < 0 && r[i - 1] && r[i - 1]._lean) s._lean = null;
+      });
+    });
+
+    shelf.innerHTML = "";
+    rows.forEach(function (r) {
+      var div = document.createElement("div");
+      div.className = "shelf";
+      r.forEach(function (s) { if (s._lean) applyLean(s); div.appendChild(s); });
+      shelf.appendChild(div);
+    });
+    shelf.classList.add("is-shelved");
+  }
+
+  layout();
+  var last = shelf.clientWidth, timer;
+  window.addEventListener("resize", function () {
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      if (shelf.clientWidth !== last) { last = shelf.clientWidth; layout(); }
+    }, 150);
+  });
+})();
+</script>
+<p>Tekst o tym, jak projektuję książki.</p>
+
+    </div>
+    
+    </section>
+
+
+
+
+
+  
+  
+  <footer class="mt-20">
+    <h6 class="underline-offset-3"><a href="mailto:">kubamaria@mazurkiewicz.work</a></h6>
+    <h6>669 269 930</h6>
+    <h6>Warszawa i Słubica na Mazowszu</h6>
+    <h6><a href="https://www.instagram.com/kubamariamazurkiewicz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/kubamariamazurkiewicz/" target="_blank">Facebook</a>, <a href="https://fontsinuse.com/designers/25736/kuba-maria-mazurkiewicz" target="_blank">Fonts In Use</a></h6>
+  </footer>
+
+
+</body>
+</html>

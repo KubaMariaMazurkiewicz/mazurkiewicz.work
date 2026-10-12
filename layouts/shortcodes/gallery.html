@@ -2,9 +2,17 @@
 
 <div class="{{ .Get "class" | default "flex flex-col md:flex-row md:space-x-4" }}">
   {{- range $line := $lines }}
+    {{- $line = trim $line " \t\r" }}
     {{- if $line }}
     <div class="one-image">
+      {{- if hasPrefix $line "<" }}
+      {{ $line | safeHTML }}
+      {{- else if findRE `!\[[^\]]*\]\([^)]+\.(mp4|webm|mov)\)` $line }}
+      {{- $m := index (findRESubmatch `!\[([^\]]*)\]\(([^)]+)\)` $line 1) 0 }}
+      <video src="{{ index $m 2 }}" autoplay muted loop playsinline preload="metadata"{{ with index $m 1 }} aria-label="{{ . }}"{{ end }} style="width:100%;height:auto;display:block"></video>
+      {{- else }}
       {{ $line | markdownify }}
+      {{- end }}
     </div>
     {{- end }}
   {{- end }}
