@@ -13,9 +13,9 @@ elements: identyfikacja wizualna, projekt książki
 institution: Dom Spotkań z Historią
 ---
 
-„Ty i Ja” to wyjątkowy magazyn lajfstajlowy wydawany w czasach PRLu, w latach 60. i 70. Publikowano w nim teksty o współczesnej sztuce i literaturze, wywiady ze znanymi artystami, naukowcami i intelektualistkami, przewodniki i przepisy. W 2024 roku warszawski Dom Spotkań z Historią otworzył wystawę w całości poświęconą „Ty i Ja”. Jej kuratorki, Julia Libera i Agata Szydłowska, przedstawiły historię twórców pisma, zarówno dziennikarek, jak i grafików. Opowieść podzielona została na kilka działów tożsamych z rubrykami oryginału, takimi jak: moda, mieszkanie, film i literatura. 
+„Ty i Ja” to wyjątkowy magazyn lajfstajlowy wydawany w czasach PRLu – w latach 60. i 70. Publikowano w nim teksty o współczesnej sztuce i literaturze, wywiady ze znanymi artystami, naukowcami i intelektualistkami, poradniki i przepisy. W 2024 roku warszawski Dom Spotkań z Historią otworzył wystawę w całości poświęconą miesięcznikowi. Jej kuratorki, Julia Libera i Agata Szydłowska, przedstawiły historię twórców pisma, zarówno dziennikarek, jak i grafików. Opowieść podzielona została na kilka działów tożsamych z rubrykami oryginału, takimi jak: moda, mieszkanie, film i literatura.
 
-Było dla mnie, jako projektanta, wielką gratką i przyjemnością obcować z przepastnym archiwum „Ty i Ja”, opracowując komunikację wizualną i projekt graficzny katalogu wystawy. 
+Dla mnie, jako projektanta opracowującego komunikację wizualną i projekt graficzny katalogu wystawy, było wielką gratką i przyjemnością obcować z przepastnym archiwum „Ty i Ja”.
 
 {{< gallery >}}
     ![Przednia okładka katalogu między trzema grzbietami na różowym tle. Zielona okładka z tytułem „Ty i Ja” na białym pasie, słowami „magazyn, grafika, zjawisko / magazine, graphics, phenomenon” i wyciętym zdjęciem kobiety w cekinowej bluzce i spodniach dzwonach, ułożonej po skosie.](/images/tyija/tyija_02.webp)
@@ -23,7 +23,7 @@ Było dla mnie, jako projektanta, wielką gratką i przyjemnością obcować z p
     ![Tylna okładka katalogu na różowym tle: zielona, z czerwonym pasem z logotypami i kodem kreskowym, dwujęzycznym opisem magazynu i wyciętą nogawką spodni z butem wkraczającą w kadr przy dolnej krawędzi. Z lewej strony opierają się dwa grzbiety.](/images/tyija/tyija_03.webp)
 {{< /gallery >}}
 
-Pracując nad projektem, czułem się, jakbym przygotowywał rebranding, nowe szaty dla magazynu. Jednak efektem nie miał być odświeżony układ szpalt pisma, a plakaty, identyfikacja wizualna wystawy i książka.
+Projektując, czułem się, jakbym przygotowywał rebranding, nowe szaty dla magazynu. Jednak efektem nie miał być odświeżony układ szpalt pisma, a plakaty, identyfikacja wizualna wystawy i książka.
 
 Punktem wyjścia i główną inspiracją stała się dla mnie druga wersja winiety „Ty i Ja” z jej charakterystycznymi, przyciętymi u góry i u dołu literami. Postanowiłem zachować zasadę wykadrowania-przycięcia, ale zastosować współczesne kroje pisma. Wybrałem dwa fonty Jana Estrady-Osmyckiego ze studia Tekio: Softcore do nagłówków i Pretty do tekstu ciągłego.
 
@@ -32,11 +32,11 @@ Punktem wyjścia i główną inspiracją stała się dla mnie druga wersja winie
 
 ![Przegląd identyfikacji wizualnej na czarnym tle: plakaty, banery i grafiki do mediów społecznościowych w kolorach żółtym, różowym, niebieskim, zielonym i pomarańczowym, wszystkie z winietą „Ty i Ja” i kolażami ze zdjęć z lat 60.](/images/tyija/tyija_04.webp)
 
-Dzisiejszy plakat nigdy nie ma tylko jednego formatu. Każde miejsce prezentacji wymaga odmiennych proporcji i wielkości. Projektując zwykle po prostu dostosowuję jeden główny plakat do każdej kolejnej formatki. W tym przypadku, mając do dyspozycji ogromny zasób wizualnych skarbów, postanowiłem stworzyć jak najwięcej niepowtarzalnych grafik. 
+Dzisiejszy plakat nigdy nie ma tylko jednego formatu. Każde miejsce prezentacji wymaga odmiennych proporcji i wielkości. Zwykle po prostu dostosowuje się jeden główny plakat do każdej kolejnej formatki. W tym przypadku, mając do dyspozycji ogromny zasób wizualnych skarbów, postanowiłem stworzyć jak najwięcej niepowtarzalnych grafik. 
 
 ![Ściana wystawy z tytułem „wstępniak / introduction” i białą siatką typograficzną namalowaną na czarnym tle: lista autorów okładek i redaktorów, nakład, format, czerwona gwiazdka z ceną, ekran ze słuchawkami i oryginalne strony magazynu.](/images/tyija/tyija_05.webp)
 
-Rozwibrowaną wystawę zaprojektowało studio Lotne. Bazą był zaproponowany przeze mnie język wizualny obejmujący paletę kolorystyczną i typografię. Ekspozycja składała się głównie z materiałów zaczerpniętych z „Ty i Ja”, zaprezentowano jednak również historyczne narzędzia służące do projektowania, filmowe wywiady z twórcami pisma i nie tylko.
+Rozwibrowaną wystawę zaprojektowało studio Lotne. Bazą był zaproponowany przeze mnie język wizualny obejmujący paletę kolorystyczną i wytyczne typograficzne. Ekspozycja składała się głównie z materiałów zaczerpniętych z „Ty i Ja”, zaprezentowano jednak również historyczne narzędzia służące do projektowania, filmowe wywiady z twórcami pisma i nie tylko.
 
 {{< gallery >}}
     ![Część wystawy „mieszkanie / dwelling”: rozkładówki o urządzaniu wnętrz na czerwonej ścianie oraz biała ściana z dwujęzycznym tekstem i czerwonym tytułem.](/images/tyija/tyija_06.webp)
@@ -56,7 +56,7 @@ Komponowanie stron katalogu było procesem wybierania, sortowania i znajdowania 
     {{< video src="/images/tyija/tyija_12.mp4" autoplay="true" alt="Animacja na pomarańczowym tle: kobieta klęczy i wyciąga się do przodu, opierając ręce na schodkach." >}}
 {{< /gallery >}}
 
-Katalog utrzymałem w tej samej proporcji co oryginalny miesięcznik, jednak zmniejszyłem format dla poręczności. Kluczowym elementem publikacji jest zestawienie wszystkich opublikowanych okładek pisma na dwóch alonżach. Kolorystyka i kroje są spójne z tymi użytymi w przestrzeni wystawy. Tom liczy 180 stron wypełnionych fotografiami, archiwalnymi projektami graficznymi i wyrafinowanymi detalami.
+Katalog utrzymałem w tej samej proporcji co oryginalny miesięcznik, jednak dla poręczności zmniejszyłem format. Kluczowym elementem książki jest zestawienie wszystkich opublikowanych okładek pisma na dwóch alonżach. Kolorystyka i kroje są spójne z tymi użytymi w przestrzeni wystawy. Tom liczy 180 stron wypełnionych fotografiami, archiwalnymi projektami graficznymi i wyrafinowanymi detalami.
 
 {{< gallery >}}
     ![Zbliżenie otwartej strony katalogu: czarno-białe zdjęcie modowe modelki w chustce, płaszczu i rajstopach w paski, kucającej na chodniku.](/images/tyija/tyija_13.webp)
