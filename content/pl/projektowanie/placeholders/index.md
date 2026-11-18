@@ -28,7 +28,7 @@ Katalog zawiera wszystkie obrazy z serii oraz wstęp napisany przez Janka Owczar
 ![Zbliżenie narożnika reprodukcji na spad: gęste różowe, zielone, niebieskie i czerwone pociągnięcia pędzla, na nich różowe litery przypadkowych znaków w czarnym obrysie.](/images/placeholders/placeholders_09.webp)
 {{< /gallery >}}
 
-Na każdym z obrazów występuje element typograficzny. Tymek używa kroju Arial, dla którego naturalnym dopełnieniem było złożenie książki innym równie powszechnym, domyślnym fontem z programów takich jak Microsoft Word, czyli czcionki Times New Roman. To pierwsza książka, którą zaprojektowałem z użyciem tego popularnego kroju.
+Na każdym z obrazów występuje element typograficzny. Tymek używa kroju Arial, dla którego naturalnym dopełnieniem było złożenie książki innym równie powszechnym, domyślnym fontem z programów takich jak Microsoft Word, czyli czcionką Times New Roman. To pierwszy raz, kiedy użyłem w projekcie tego popularnego kroju.
 
 {{< gallery >}}
 ![Rozkładówka tytułowa: pusta lewa strona, na prawej u góry „TYMEK BOROWSKI” i „Placeholders” czarnym szeryfowym krojem, u dołu „2026” i „BWA ZIELONA GÓRA”.](/images/placeholders/placeholders_12.webp)
