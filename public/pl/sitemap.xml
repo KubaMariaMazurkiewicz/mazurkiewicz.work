@@ -18,6 +18,32 @@
     <loc>http://localhost:1313/pl/oferta/</loc>
     <lastmod>2026-10-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/pl/projektowanie/placeholders/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/placeholders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/placeholders/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pl/projektowanie/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/projektowanie/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -29,19 +55,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="http://localhost:1313/pl/projektowanie/architekturaielektrycznosc/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pl/projektowanie/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://localhost:1313/pl/projektowanie/"
                 />
   </url><url>
     <loc>http://localhost:1313/pl/oferta/wystawyplenerowe/</loc>

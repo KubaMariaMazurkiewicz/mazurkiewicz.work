@@ -1,7 +1,7 @@
 ---
 translationKey: architekturaielektrycznosc
 date: 2026-01-26
-featured: true
+featured: false
 title: Architecture and Electricity
 slug: architectureandelectricity
 cover: /images/architekturaielektrycznosc/architekturaielektrycznosc_01.webp
